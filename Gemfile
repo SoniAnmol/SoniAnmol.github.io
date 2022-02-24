@@ -17,6 +17,11 @@ gem "jekyll"
 gem "minimal-mistakes-jekyll"
 gem "rake"
 
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
+
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
@@ -28,4 +33,3 @@ gem "rake"
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
 end
-gem "webrick", "~> 1.7"
