@@ -1,2 +1,2 @@
-# SoniAnmol.github.io
+# Anmol Soni
 Personal website
