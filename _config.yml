@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", default
 
 # Site Settings
 locale                   : "en-US"
@@ -103,42 +103,45 @@ analytics:
 # Site Author
 author:
   name             : "Anmol Soni"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "Studying Msc. Engineering and Policy Analysis "
   location         : "The Hague"
   email            : anmol_soni@outlook.com
   links:
     - label: "anmol_soni@outlook.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:anmol_soni@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://SoniAnmol.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/anmol_soni"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      "https://www.facebook.com/anmols0ni"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/SoniAnmol"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/anmolnymous/"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/a-soni/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://SoniAnmol.github.io"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/anmol_soni"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/SoniAnmol"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,7 +150,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/anmolnymous/"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/a-soni/"
 
 
 # Reading Files
