@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-permalink: /home/
+permalink: 
 ---
-![Image](src)
+<!-- ![Image](src) -->
 
 # Hello! This is my personal website.
