@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: ""
 permalink:
 ---
 > Social Data Scientist - Tackling Complex-Wicked Problems - Data Analysis, Visualisation and Modelling
@@ -9,7 +9,7 @@ permalink:
 
 I am a social data scientist currently pursing
 my [M.Sc in Engineering and Policy Analysis (EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
-from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing projects, recent learnings and life. :smile:
+from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing projects, recent learnings and life.
 
 ## Hire Me
 I am currently working on my thesis project and looking forward to starting a new job. I am interested in working with
