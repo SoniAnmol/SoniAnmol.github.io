@@ -28,11 +28,22 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anmol_soni
 github_username:  SoniAnmol
+linkedin_username: a-soni
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      permalink: /:basename/ # make URL of pages in the folder _pages as on the root.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
