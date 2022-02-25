@@ -3,7 +3,7 @@ layout: home
 title: Home
 permalink:
 ---
-> Social Data Scientist | Tackling Complex-Wicked Problems | Data Analysis, Visualisation and Modelling
+> Social Data Scientist - Tackling Complex-Wicked Problems - Data Analysis, Visualisation and Modelling
 
 **Welcome to my personal website.**
 
