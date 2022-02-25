@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<img align="left" width="80" height="100"  src="https://drive.google.com/uc?export=view&id=1EZwjr-uqfOMBPB7WdFY5g4egWsd7GXvP">
+
+
 I am an international student from India currently pursuing my MSc. in Engineering and Policy Analysis (EPA) from TU Delft.
 
 
