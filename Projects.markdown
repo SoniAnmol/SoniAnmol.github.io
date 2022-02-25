@@ -1,8 +1,15 @@
 ___
-layout: page
-title: Projects
-permalink: /Projects/
+layout: page title: Projects permalink: /Projects/
 ___
+
 ## Master thesis project
-Topic: Modelling Dutch energy communities 
-Project description: 
+
+Modelling Dutch energy communities
+
+## Study projects
+
+* Modelling agent based behaviour for evacuation under emergency response.
+* QCONNECT: An agent based model for studying adoption of circular economy in Dutch automotive industry.
+ 
+
+
