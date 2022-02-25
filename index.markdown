@@ -3,6 +3,9 @@ layout: home
 title: ""
 permalink:
 ---
+
+<img style="width:100%;" id="image" src="gallery/banner_about_me.png">
+
 > Social Data Scientist - Tackling Complex Wicked Problems 
 
 ## <span style="color:orange">**WELCOME TO MY PERSONAL WEBSITE**</span>
