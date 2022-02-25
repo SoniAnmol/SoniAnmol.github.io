@@ -1,7 +1,7 @@
 ___
 layout: page
 title: Projects
-permalink: SoniAnmol/projects/
+permalink: /projects/
 ___
 
 ## Master thesis project

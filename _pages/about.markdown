@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: About
+permalink: /about/
 ---
 
 <img align="left" width="80" height="100"  src="https://drive.google.com/uc?export=view&id=1EZwjr-uqfOMBPB7WdFY5g4egWsd7GXvP">
