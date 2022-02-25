@@ -1,5 +1,7 @@
 ___
-layout: page title: Projects permalink: /Projects/
+layout: page
+title: Projects
+permalink: /Projects/
 ___
 
 ## Master thesis project
