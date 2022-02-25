@@ -19,7 +19,7 @@ permalink: /cv/
 I am passionate about modeling complex societal (wicked) problems. Equipped with strategic tools and grassroots
 experience, I aspire to work towards a resilient, sustainable, and equitable future through data-driven decision-making.
 
-<img align="left" width="300" height="320"  src="../gallery/anmol_pic.png">
+<img align="left" width="300" height="310"  src="../gallery/anmol_pic.png">
 
 ### <span style="color:grey"> Currently </span>
 
@@ -138,4 +138,4 @@ Extracurricular: Held position of Cultural Secretary in the study association. <
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
-Last updated: February 2022
+> Last updated: February 2022
