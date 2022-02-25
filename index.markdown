@@ -31,5 +31,4 @@ My choice of tools/methodologies for addressing these global grand challenges ar
     * systems thinking and system dynamics models
     * Modelling simulation for decision-making under (deep) uncertainty
 
-![Image](gallery/banner.png)
-
+<img src="gallery/banner.png" alt="drawing" width="800"/>
