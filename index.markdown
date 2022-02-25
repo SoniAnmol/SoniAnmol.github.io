@@ -10,9 +10,9 @@ permalink:
 
 ## <span style="color:orange">**WELCOME TO MY PERSONAL WEBSITE**</span>
 
-I am a social data scientist currently pursing
+I am an aspiring social data scientist currently pursing
 my [M.Sc in Engineering and Policy Analysis (EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
-from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing projects, recent learnings and life.
+from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing projects, recent learnings and everything else.
 <hr style="width:100%;text-align:left;margin-left:0">
 
 ## <span style="color:orange">**HIRE ME**</span>
@@ -37,5 +37,5 @@ My choice of tools/methodologies for addressing these global grand challenges ar
     * through (multi) agent based modeling
     * systems thinking and system dynamics models
     * Modelling simulation for decision-making under (deep) uncertainty
-<hr style="width:100%;text-align:left;margin-left:0">
-
+    
+<img style="width:100%;" id="image" src="gallery/banner.png">
