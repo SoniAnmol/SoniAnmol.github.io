@@ -3,12 +3,13 @@ layout: cv
 title: 'Curriculum vitae'
 permalink: /cv/
 ---
-# Anmol Soni
-Social Data-Scientist, Strategy Consultation
+# <span style="color:grey">**ANMOL SONI**</span>
+> Social Data Scientist - Tackling Complex Wicked Problems
 
 <div id="webaddress">
 <a href="mailto:anmol_soni@outlook.com">anmol_soni@outlook.com</a>
-| <a href="https://www.SoniAnmol.com">SoniAnmol.com</a>
+| <a href="https://www.SoniAnmol.com">SoniAnmol.com</a> 
+| <a href="../gallery/Anmol_Soni_CV.pdf"> Download CV </a> 
 </div>
 
 <hr style="width:100%;text-align:left;margin-left:0">
@@ -18,6 +19,8 @@ Social Data-Scientist, Strategy Consultation
 I am passionate about modeling complex societal (wicked) problems. Equipped with strategic tools and grassroots
 experience, I aspire to work towards a resilient, sustainable, and equitable future through data-driven decision-making.
 
+<img align="left" width="300" height="320"  src="../gallery/anmol_pic.png">
+
 ### <span style="color:grey"> Currently </span>
 
 Working on my MSc. thesis project on modelling Energy communities in the Netherlands.
@@ -25,7 +28,6 @@ Working on my MSc. thesis project on modelling Energy communities in the Netherl
 
 
 ### <span style="color:grey"> Specialized in </span>
-
 
 Policy analysis in multi actor systems, Agent-based modelling, System dynamics, Data analysis, Data visualisation, Stakeholder management, Actor strategy
 modelling, model based decision-making, and data-driven decision-making.
