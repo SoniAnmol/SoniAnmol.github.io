@@ -17,6 +17,8 @@ from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing proje
 
 ## <span style="color:orange">**HIRE ME**</span>
 
+<img align="left" width="160" height="155"  src="gallery/hire_me.png">
+
 I am currently working on my thesis project and looking forward to starting a new job. I am interested in working with
 an organisation working towards a sustainable future using data driven tools. Check my [CV](_pages/cv.md)
 and [projects](_pages/my_projects.md) to read more about my work. If you are interested in hiring me, please contact me

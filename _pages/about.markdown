@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<img align="left" width="200" height="200"  src="../gallery/about_me_pic.png">
 
 I am an international student from India studying Engineering and Policy Analysis at TU Delft. I started my professional
 career designing Solar PV plants in India and later transitioned to energy policy and regulatory governance. Working in
