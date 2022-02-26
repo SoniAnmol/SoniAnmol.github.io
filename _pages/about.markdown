@@ -17,8 +17,8 @@ at [TU Delft](https://www.tudelft.nl/) in the Netherlands.
 I started my professional journey in India after completing
 my [B.E. in Mechanical Engineering](https://ghrietn.raisoni.net/ug-mechanical-engineering) and Post
 Graduation Diploma in [Power Plant Engineering](https://npti.gov.in/npti_neyveli/home). I started my career
-with [Boond](http://boond.net/), a social enterprise working towards rural electrification in India. After electrifying
-over 300 households in 27 remote hamlets, I moved on to designing grid scale solar PV systems
+with [Boond](http://boond.net/), a social enterprise working for rural electrification in India. After electrifying
+over 300 households in 27 remote hamlets, I moved to designing grid scale solar PV systems
 at [Vibgyour Energy](https://vibgyorenergy.com/) in New Delhi, India.
 
 #### Career transition to Energy Policy
@@ -30,7 +30,7 @@ joining [Bask Research Foundation](https://baskfoundation.org/) as Research Asso
 Working with [Bask](https://baskfoundation.org/) opened up the world of electricity governance for me.
 As a Research associate, I primarily worked on capacity building of electricity consumers in Rajasthan, India. In
 addition to this, I actively participated in the regulatory matters related to electricity distribution in Rajasthan,
-India. This job required a lot of travelling to remote and serene area of Rajasthan enriching both my career and soul.
+India. This job involved a lot of travelling to remote and serene villages of Rajasthan enriching both my career and soul.
 
 <img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_jaipur.png">
 
@@ -49,7 +49,7 @@ front.
 <img align="left" style="width:33%;" id="image"  src="../gallery/about/anmol_efteling.png">
 
 I moved to the Netherlands in 2020 to learn the craft of policy analysis using state-of-the-art technological tools at
-TU Delft.
+[TU Delft](https://www.tudelft.nl/).
 
 
 
