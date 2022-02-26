@@ -14,8 +14,8 @@ at [TU Delft](https://www.tudelft.nl/) in the Netherlands.
 
 <img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_up.png">
 
-I started my professional journey in India after my studies
-in [B.E. in Mechanical Engineering](https://ghrietn.raisoni.net/ug-mechanical-engineering) and completing my Post
+I started my professional journey in India after completing
+my [B.E. in Mechanical Engineering](https://ghrietn.raisoni.net/ug-mechanical-engineering) and Post
 Graduation Diploma in [Power Plant Engineering](https://npti.gov.in/npti_neyveli/home). I started my career
 with [Boond](http://boond.net/), a social enterprise working towards rural electrification in India. After electrifying
 over 300 households in 27 remote hamlets, I moved on to designing grid scale solar PV systems
@@ -30,14 +30,16 @@ joining [Bask Research Foundation](https://baskfoundation.org/) as Research Asso
 Working with [Bask](https://baskfoundation.org/) opened up the world of electricity governance for me.
 As a Research associate, I primarily worked on capacity building of electricity consumers in Rajasthan, India. In
 addition to this, I actively participated in the regulatory matters related to electricity distribution in Rajasthan,
-India. I travelled alot and this experience was enriched both my career life and my soul.
+India. This job required a lot of travelling to remote and serene area of Rajasthan enriching both my career and soul.
 
 <img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_jaipur.png">
 
-During this period, I further improved my understanding of public policy by
-attending [i-policy for Young Leaders](https://ccs.in/ipolicy-young-leaders) a crash course organised
-by [Centre for civil society](https://ccs.in/). In addition to this, I got opportunity to attend a
-workshop [Energy efficiency in emerging economies](https://www.iea.org/programmes/energy-efficiency-in-emerging-economies)
+During this period I also worked on enhancing my analytical and policy analysis skills.
+I took courses on [Data analysis with python](https://nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS59S41500241a0ad9d911e9bc73479868cce0f2) and [Energy economy and policy](https://nptel.ac.in/?q=NPTEL19HS42S61500399a0ad9d911e9bc73479868cce0f2) offered by [IIT Madras](https://www.iitm.ac.in/).
+To improve my understanding of public policy I attended
+a [i-policy for Young Leaders](https://ccs.in/ipolicy-young-leaders) a crash course organised
+by [Centre for civil society](https://ccs.in/). I also got an opportunity to attend the
+workshop on [Energy efficiency in emerging economies](https://www.iea.org/programmes/energy-efficiency-in-emerging-economies)
 by [International Energy Agency](https://www.iea.org/). This program not only helped me understand the fundamentals of
 energy efficiency, but also helped me connect with young aspiring leaders working for energy transition at the policy
 front.
