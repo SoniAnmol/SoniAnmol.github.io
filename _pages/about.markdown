@@ -34,14 +34,15 @@ India. This job involved a lot of travelling to remote and serene villages of Ra
 
 <img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_jaipur.png">
 
-During this period I also worked on enhancing my analytical and policy analysis skills.
-I took courses on [Data analysis with python](https://nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS59S41500241a0ad9d911e9bc73479868cce0f2) and [Energy economy and policy](https://nptel.ac.in/?q=NPTEL19HS42S61500399a0ad9d911e9bc73479868cce0f2) offered by [IIT Madras](https://www.iitm.ac.in/).
-To improve my understanding of public policy I attended
-a [i-policy for Young Leaders](https://ccs.in/ipolicy-young-leaders) a crash course organised
-by [Centre for civil society](https://ccs.in/). I also got an opportunity to attend the
-workshop on [Energy efficiency in emerging economies](https://www.iea.org/programmes/energy-efficiency-in-emerging-economies)
+During this period I also worked on enhancing my analytical and policy analysis skills. I took courses
+on [Data analysis with python](https://nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS59S41500241a0ad9d911e9bc73479868cce0f2)
+and [Energy economy and policy](https://nptel.ac.in/?q=NPTEL19HS42S61500399a0ad9d911e9bc73479868cce0f2) offered
+by [IIT Madras](https://www.iitm.ac.in/). To improve my understanding of public policy I
+attended [i-policy for Young Leaders](https://ccs.in/ipolicy-young-leaders) a crash course organised
+by [Centre for civil society](https://ccs.in/). I also got an opportunity to attend the workshop
+on [Energy efficiency in emerging economies](https://www.iea.org/programmes/energy-efficiency-in-emerging-economies)
 by [International Energy Agency](https://www.iea.org/). This program not only helped me understand the fundamentals of
-energy efficiency, but also helped me connect with young aspiring leaders working for energy transition at the policy
+energy efficiency, but also connected me with young aspiring leaders working for energy transition at the policy
 front.
 
 #### Moving to the Netherlands
