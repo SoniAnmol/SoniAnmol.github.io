@@ -4,19 +4,13 @@ title: About
 permalink: /about/
 ---
 
-
-
-I am an international student from India studying Engineering and Policy
-Analysis [(EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
-at [TU Delft](https://www.tudelft.nl/) in the Netherlands.
-
 I am an international student from India studying Engineering and Policy
 Analysis [(EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
 at [TU Delft](https://www.tudelft.nl/) in the Netherlands. Following is my elaborate professional journey.
 
 #### Designing solar PV systems for rural electrification
 
-<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_up.png">
+<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_delhi.png">
 
 I started my professional journey in India after completing
 my [B.E. in Mechanical Engineering](https://ghrietn.raisoni.net/ug-mechanical-engineering) and Post Graduation Diploma
@@ -62,13 +56,15 @@ track of my program.
 
 The modelling and simulation track
 of [EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis) attracted me the
-most. Therefore, I joined the [HERoS-EU project](https://www.heros-project.eu/) and helped in building an
+most. Therefore, I joined the [HERoS-EU project](https://www.heros-project.eu/)  as Research Assistant and helped in building an
 agent-based model of the Hague to simulate the spread of infection in the city.
+
+<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_dentatus.png">
 
 During my first year of master's, I also
 served as a board member of [Dentatus](https://dentatus.curius.nl/), the study association
 of [EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis). Currently, I am
-in my second year and serving as TPM faculty ambassador
+in my second year and serving as [TPM faculty](https://www.tudelft.nl/tbm) ambassador
 of [Delft Global Student Club](https://issuu.com/delftglobalstudentclub/docs/owee_flyer_dgsc_2_), an initiative for
 promoting tech-for-good and research in the global south. Currently, I am
 helping [Delft Global Student Club](https://issuu.com/delftglobalstudentclub/docs/owee_flyer_dgsc_2_) to publish their

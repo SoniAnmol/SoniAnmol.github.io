@@ -4,7 +4,7 @@ title: ""
 permalink:
 ---
 
-<img style="width:100%;" id="image" src="gallery/banner_about_me.png">
+<img style="width:100%;" id="image" src="gallery/top_banner.png">
 
 > Social Data Scientist - Tackling Complex Wicked Problems 
 
@@ -17,7 +17,7 @@ from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing proje
 
 ## <span style="color:orange">**HIRE ME**</span>
 
-<img align="left" width="160" height="155"  src="gallery/hire_me.png">
+<img align="left" style="width:25%;" id="image"  src="gallery/hire_me.png">
 
 I am currently working on my thesis project and looking forward to starting a new job. I am interested in working with
 an organisation working towards a sustainable future using data driven tools. Check my [CV](_pages/cv.md)
