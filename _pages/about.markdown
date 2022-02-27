@@ -8,7 +8,7 @@ I am an international student from India studying Engineering and Policy
 Analysis [(EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
 at [TU Delft](https://www.tudelft.nl/) in the Netherlands. Following is my elaborate professional journey.
 
-#### Designing solar PV systems for rural electrification
+### Designing solar PV systems for rural electrification
 
 <img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_delhi.png">
 
@@ -19,7 +19,7 @@ in [Power Plant Engineering](https://npti.gov.in/npti_neyveli/home). I started m
 hamlets, I transitioned to designing grid-scale solar PV systems at [Vibgyour Energy](https://vibgyorenergy.com/) in New
 Delhi, India. This job provided me with hands-on experience in designing and managing grid-scale projects.
 
-#### Career transition to Energy Policy
+### Career transition to Energy Policy
 
 <img align="left" style="width:33%;" id="image"  src="../gallery/about/anmol_bajju.png">
 
@@ -42,7 +42,7 @@ on [Energy efficiency in emerging economies](https://www.iea.org/programmes/ener
 [International Energy Agency](https://www.iea.org/). This program not only helped me understand the fundamentals of
 energy efficiency but also connected me with young aspiring leaders working for energy transition at the policy front.
 
-#### Moving to the Netherlands
+### Moving to the Netherlands
 
 <img align="left" style="width:33%;" id="image"  src="../gallery/about/anmol_efteling.png">
 
@@ -54,12 +54,12 @@ master's experience, I am following the
 HPM [(Honours Programme Master)](https://www.tudelft.nl/studenten/faculteiten/tnw-studentenportal/onderwijs/honours-programme-tnw/hpm-honours-programme-master)
 track of my program.
 
+<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_dentatus.png">
+
 The modelling and simulation track
 of [EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis) attracted me the
 most. Therefore, I joined the [HERoS-EU project](https://www.heros-project.eu/)  as Research Assistant and helped in building an
 agent-based model of the Hague to simulate the spread of infection in the city.
-
-<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_dentatus.png">
 
 During my first year of master's, I also
 served as a board member of [Dentatus](https://dentatus.curius.nl/), the study association
