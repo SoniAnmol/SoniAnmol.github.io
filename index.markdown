@@ -14,18 +14,26 @@ I am an aspiring social data scientist currently pursuing
 my [M.Sc in Engineering and Policy Analysis (EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
 from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing projects, recent learnings and everything
 else.
+
 <hr style="width:100%;text-align:left;margin-left:0">
 
-## <span style="color:waterblue">**HIRE ME**</span>
+<br>
 
-<img align="left" style="width:25%;" id="image"  src="gallery/hire_me.png">
+<img align="left" style="width:33%;" id="image"  src="gallery/hire_me.png">
+
+## <span style="color:black">**HIRE ME**</span>
 
 I am currently working on my master's thesis project and looking forward to the job opportunities in the Netherlands. I
 am interested in working with an organisation working towards a sustainable future using data-driven tools. Check
 my [CV](_pages/cv.md)
 and [projects](_pages/my_projects.md) to read more about my work. If you are interested, lets connect
 via [LinkedIn](https://www.linkedin.com/in/a-soni/) or [email](mailto:anmol_soni@outlook.com).
+
+<br>
+
 <hr style="width:100%;text-align:left;margin-left:0">
+
+<br>
 
 ## <span style="color:black">**AREA OF INTEREST**</span>
 
@@ -40,4 +48,8 @@ these challenges are
   * Systems thinking and system dynamics models
   * Modelling simulation for decision-making under (deep) uncertainty
 
-<img style="width:100%;" id="image" src="gallery/banner.png">
+<br>
+
+<img style="width:100%;" id="image"  src="gallery/banner_bottom_2.png">
+
+<br>
