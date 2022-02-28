@@ -3,9 +3,13 @@ layout: home
 title: ""
 permalink:
 ---
-<img style="width:100%;" id="image" src="gallery/top_banner.png">
+<img style="width:100%" id="image" src="gallery/banner_top-2.png">
+
+<br>
 
 > Social Data Scientist - Tackling Complex [Wicked](https://en.wikipedia.org/wiki/Wicked_problem) Problems
+
+<br>
 
 ## <span style="color:#3498DB">**WELCOME TO MY PERSONAL WEBSITE**</span>
 
