@@ -3,12 +3,12 @@ layout: home
 title: ""
 permalink:
 ---
-
+{% seo %}
 <img style="width:100%;" id="image" src="gallery/top_banner.png">
 
-> Social Data Scientist - Tackling Complex Wicked Problems
+> Social Data Scientist - Tackling Complex [Wicked](https://en.wikipedia.org/wiki/Wicked_problem) Problems
 
-## <span style="color:skyblue">**WELCOME TO MY PERSONAL WEBSITE**</span>
+## <span style="color:#3498DB">**WELCOME TO MY PERSONAL WEBSITE**</span>
 
 I am an aspiring social data scientist currently pursuing
 my [M.Sc in Engineering and Policy Analysis (EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
@@ -44,7 +44,7 @@ these challenges are
 * Policy Analysis for multi-actor policy perspectives
 * Actor strategy modelling and stakeholder management
 * Modelling, data analysis and data visualisation.
-  * Modelling complex-wicked problems through (multi) agent-based modelling
+  * Modelling complex-[wicked](https://en.wikipedia.org/wiki/Wicked_problem) problems through (multi) agent-based modelling
   * Systems thinking and system dynamics models
   * Modelling simulation for decision-making under (deep) uncertainty
 

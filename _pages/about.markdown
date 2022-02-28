@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+{% seo %}
 I am an international student from India studying Engineering and Policy
 Analysis [(EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
 at [TU Delft](https://www.tudelft.nl/) in the Netherlands. Following is my elaborate professional journey.

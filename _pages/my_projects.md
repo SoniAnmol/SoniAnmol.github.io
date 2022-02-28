@@ -3,7 +3,7 @@ layout: page
 title: My Projects
 permalink: /my_projects/
 ---
-
+{% seo %}
 ### Master thesis project
 
 Modelling Dutch energy communities
