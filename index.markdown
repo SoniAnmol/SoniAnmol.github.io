@@ -23,7 +23,7 @@ else.
 
 ## <span style="color:black">**HIRE ME**</span>
 
-I am currently working on my master's thesis project and looking forward to the job opportunities in the Netherlands. I
+I am currently working on my [master's thesis project](http://sonianmol.com/Modelling-Dutch-Energy-Communities/) and looking forward to the job opportunities in the Netherlands. I
 am interested in working with an organisation working towards a sustainable future using data-driven tools. Check
 my [CV](_pages/cv.md)
 and [projects](_pages/my_projects.md) to read more about my work. If you are interested, lets connect
