@@ -22,9 +22,7 @@ else.
 
 <br>
 
-<img align="left" style="width:33%;" id="image"  src="gallery/hire_me.png">
-
-## <span style="color:black">**HIRE ME**</span>
+<img style="width:20%; float:left; margin-right: 1cm" id="image"  src="gallery/hire_me.png" >
 
 I am currently working on my [master's thesis project](http://sonianmol.com/Modelling-Dutch-Energy-Communities/) and looking forward to the job opportunities in the Netherlands. I
 am interested in working with an organisation working towards a sustainable future using data-driven tools. Check
