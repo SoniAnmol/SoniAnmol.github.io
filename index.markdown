@@ -3,7 +3,6 @@ layout: home
 title: ""
 permalink:
 ---
-{% seo %}
 <img style="width:100%;" id="image" src="gallery/top_banner.png">
 
 > Social Data Scientist - Tackling Complex [Wicked](https://en.wikipedia.org/wiki/Wicked_problem) Problems
