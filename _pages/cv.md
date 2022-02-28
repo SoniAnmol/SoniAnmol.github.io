@@ -24,7 +24,7 @@ equitable future through data-driven decision-making.
 ### <span style="color:black"> Currently </span>
 
 Working on my MSc. thesis project at [Croonwolter&dros](www.croonwolterendros.nl) on [Modelling energy communities in the
-Netherlands](http://sonianmol.com/Modelling-Dutch-Energy-Communities/).
+Netherlands](https://sonianmol.com/Modelling-Dutch-Energy-Communities/).
 [Read more about my project](my_projects.md)
 
 ### <span style="color:black"> Specialized in </span>

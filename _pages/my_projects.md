@@ -7,7 +7,7 @@ permalink: /my_projects/
 
 I undertook following projects as part of my Msc. in Engineering and Policy Analysis at TU Delft.
 
-* #### [Master's thesis project - Modelling Dutch energy communities](http://sonianmol.com/Modelling-Dutch-Energy-Communities/)
+* #### [Master's thesis project - Modelling Dutch energy communities](https://sonianmol.com/Modelling-Dutch-Energy-Communities/)
 
 * #### Others
 
