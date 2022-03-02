@@ -3,7 +3,7 @@ layout: cv
 title: 'Curriculum vitae'
 permalink: /cv/
 ---
-<img align= left style="width:33%;" id="image" src="../gallery/anmol_pic.png">
+<img style="width:33%; float: left;" id="image" src="../gallery/anmol_pic.png">
 # <span style="color:grey">**ANMOL SONI**</span>
 > Social Data Scientist - Tackling Complex Wicked Problems
 
