@@ -1,6 +1,5 @@
 ---
 layout: home
-title: ""
 permalink:
 ---
 <img style="width:100%" id="image" src="gallery/banner_top-2.png">
@@ -11,12 +10,14 @@ permalink:
 
 <br>
 
-## <span style="color:#3498DB">**WELCOME TO MY PERSONAL WEBSITE**</span>
+<h1>WELCOME TO MY PERSONAL WEBSITE</h1> 
 
-I am an aspiring social data scientist currently pursuing
-my [M.Sc in Engineering and Policy Analysis (EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
-from [TU Delft](https://www.tudelft.nl/en/). I write here about my ongoing projects, recent learnings and everything
-else.
+<p>I am an aspiring social data scientist currently pursuing
+my M.Sc in Engineering and Policy Analysis <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis/"> (EPA) </a>
+from <a href="https://www.tudelft.nl/en/"> TU Delft </a> . I write here about my ongoing projects, recent learnings and everything
+else.</p>
+
+
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
