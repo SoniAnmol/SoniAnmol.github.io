@@ -9,7 +9,7 @@ at [TU Delft](https://www.tudelft.nl/) in the Netherlands. Following is my elabo
 
 ### Designing solar PV systems for rural electrification
 
-<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_delhi.png">
+<img style="width:33%; float: right" id="image"  src="../gallery/about/anmol_delhi.png">
 
 I started my professional journey in India after completing
 my [B.E. in Mechanical Engineering](https://ghrietn.raisoni.net/ug-mechanical-engineering) and Post Graduation Diploma
@@ -20,7 +20,7 @@ Delhi, India. This job provided me with hands-on experience in designing and man
 
 ### Career transition to Energy Policy
 
-<img align="left" style="width:33%;" id="image"  src="../gallery/about/anmol_bajju.png">
+<img style="width:33%; float: left" id="image"  src="../gallery/about/anmol_bajju.png">
 
 For creating impact at the grassroots level, I made a career transition to energy policy by
 joining [Bask Research Foundation](https://baskfoundation.org/) as Research Associate. Working
@@ -29,7 +29,7 @@ I primarily worked on the capacity building of electricity consumers in Rajastha
 actively participated in the regulatory matters related to electricity distribution in Rajasthan, India. This job
 involved a lot of travelling to remote and serene villages of Rajasthan enriching both my career and soul.
 
-<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_jaipur.png">
+<img style="width:33%; float: right" id="image"  src="../gallery/about/anmol_jaipur.png">
 
 During this period I also worked on enhancing my analytical and policy analysis skills. I took courses
 on [Data analysis with python](https://nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS59S41500241a0ad9d911e9bc73479868cce0f2)
@@ -43,7 +43,7 @@ energy efficiency but also connected me with young aspiring leaders working for 
 
 ### Moving to the Netherlands
 
-<img align="left" style="width:33%;" id="image"  src="../gallery/about/anmol_efteling.png">
+<img style="width:33%; float: left" id="image"  src="../gallery/about/anmol_efteling.png">
 
 I moved to the Netherlands in 2020 to master the craft of policy analysis using data-driven tools and simulation
 at [TU Delft](https://www.tudelft.nl/)
@@ -53,7 +53,7 @@ master's experience, I am following the
 HPM [(Honours Programme Master)](https://www.tudelft.nl/studenten/faculteiten/tnw-studentenportal/onderwijs/honours-programme-tnw/hpm-honours-programme-master)
 track of my program.
 
-<img align="right" style="width:33%;" id="image"  src="../gallery/about/anmol_dentatus.png">
+<img style="width:33%; float: right" id="image"  src="../gallery/about/anmol_dentatus.png">
 
 The modelling and simulation track
 of [EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis) attracted me the
