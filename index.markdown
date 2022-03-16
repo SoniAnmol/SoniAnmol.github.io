@@ -23,13 +23,12 @@ else.</p>
 
 <br>
 
-<img style="width:20%; float:left; margin-right: 1cm" id="image"  src="gallery/hire_me.png" >
+<img style="width:20%; float:left; margin-right: 1cm" id="image"  src="gallery/open_to_work.png" >
 
 I am currently working on my [master's thesis project](https://sonianmol.com/Modelling-Dutch-Energy-Communities/) and looking forward to job opportunities in the Netherlands. I
-am interested in working with an organisation working towards a sustainable future using data-driven tools. Check
-my [CV](_pages/cv.md)
-and [projects](_pages/my_projects.md) to read more about my work. If you are interested, lets connect
-via [LinkedIn](https://www.linkedin.com/in/a-soni/) or [email](mailto:anmol_soni@outlook.com).
+am interested in working with an organisation working towards a sustainable future using data-driven tools. 
+
+Lets connect via [LinkedIn](https://www.linkedin.com/in/a-soni/) or [email](mailto:anmol_soni@outlook.com).
 
 <br>
 

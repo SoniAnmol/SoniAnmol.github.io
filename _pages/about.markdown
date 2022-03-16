@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I am an international student from India studying Engineering and Policy
 Analysis [(EPA)](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
-at [TU Delft](https://www.tudelft.nl/) in the Netherlands. Following is my elaborate professional journey.
+at [TU Delft](https://www.tudelft.nl/) in the Netherlands. Let me take you through my journey so far.
 
 ### Designing solar PV systems for rural electrification
 
@@ -69,8 +69,6 @@ promoting tech-for-good and research in the global south. Currently, I am
 helping [Delft Global Student Club](https://issuu.com/delftglobalstudentclub/docs/owee_flyer_dgsc_2_) to publish their
 first magazine.
 
+<br>
+
 > Last updated in February 2022, stay tuned for more chapters.
-
-
-
-

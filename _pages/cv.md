@@ -19,11 +19,14 @@ _I am passionate about modeling complex societal [(wicked)](https://en.wikipedia
 Equipped with strategic tools and grassroots experience, I aspire to work towards a resilient, sustainable, and
 equitable future through data-driven decision-making._
 
-### Currently
+<br>
 
-Working on my MSc. thesis project at [Croonwolter&dros](www.croonwolterendros.nl) on [Modelling energy communities in the
-Netherlands](https://sonianmol.com/Modelling-Dutch-Energy-Communities/).
-[Read more about my project](my_projects.md)
+<img style="width:19%; float:right; margin-left: 10px" id="image"  src="../gallery/hire_me.png" >
+
+I am currently working on my [master's thesis project](https://sonianmol.com/Modelling-Dutch-Energy-Communities/) and looking forward to job opportunities in the Netherlands. I
+am interested in working with an organisation working towards a sustainable future using data-driven tools. 
+
+Lets connect via [LinkedIn](https://www.linkedin.com/in/a-soni/) or [email](mailto:anmol_soni@outlook.com).
 
 ### Keywords
 
