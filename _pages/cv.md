@@ -6,7 +6,7 @@ permalink: /cv/
 
 <img style="width:33%; float: left; margin-right: 25px" id="image" src="../gallery/anmol_formal.png" alt="Anmol">
 
-# <span style="color:#2980B9;">**ANMOL SONI**</span>
+### <span style="color:#2980B9;">**ANMOL SONI**</span>
 
 Social Data Scientist - Tackling Complex Wicked Problems <br>
 [MSc. Engineering and Policy Analysis | TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis)
