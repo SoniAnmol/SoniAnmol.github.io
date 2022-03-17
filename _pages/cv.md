@@ -15,7 +15,7 @@ ___
 
 # [**Download my Curriculum vitae**](..\gallery\Anmol_Soni_Resume_15-03-2022-20-22-03.pdf)
 
-_I am passionate about modeling complex societal [(wicked)](https://en.wikipedia.org/wiki/Wicked_problem) problems.
+_I am passionate about tackling complex societal [(wicked)](https://en.wikipedia.org/wiki/Wicked_problem) problems.
 Equipped with strategic tools and grassroots experience, I aspire to work towards a resilient, sustainable, and
 equitable future through data-driven decision-making._
 
