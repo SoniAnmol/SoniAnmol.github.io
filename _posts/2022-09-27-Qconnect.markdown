@@ -1,0 +1,27 @@
+---
+layout: default
+modal-id: 3
+date: 27-09-2022
+img: qconnect.png
+alt: image-alt
+project-date:
+client: 
+category:
+description:
+---
+# Q-connect
+
+<br>
+
+This project was a deliverable for the course Advanced Agent Based Modelling (2021/22 Q2) at TU Delft in collaboration
+with RIVM (National Institute for Public Health and the Environment).
+RIVM wanted to improve the circularity of plastic in Dutch automotive industry.
+For this purpose, they conducted stakeholder interviews and focused discussions for identifying the key barriers,
+opportunities, and policy solutions.
+RIVM formulated a set of policies and wanted to evaluate the effectiveness of these policies.
+Our group developed an agent-based model for virtually testing policy effectiveness. The model is very modular and
+can be accessed through this [link](https://github.com/max-reddel/QONNECT).
+
+<br>
+
+If you want to know more about this project, feel free to [contact me](mailto:anmol_soni@outlook.com).
