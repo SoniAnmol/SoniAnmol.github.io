@@ -5,10 +5,11 @@ date: 2021-11-01
 img: professional_journey.png
 alt: image-alt
 project-date:
-client: 
+client:
 category:
 description:
 ---
+
 # Professional Journey
 
 This is a short summary of my professional journey till now. If you have any questions or want to know more, please feel
@@ -18,59 +19,70 @@ to [contact me](mailto:anmol_soni@outlook.com)
 
 ### Designing Solar PV Systems for Rural Electrification
 
-I started my professional journey in India after completing
-my [B.E. in Mechanical Engineering](https://ghrietn.raisoni.net/ug-mechanical-engineering) and Post Graduation Diploma
-in [Power Plant Engineering](https://npti.gov.in/npti_neyveli/home). I started my career with [Boond](http://boond.net/),
-a social enterprise working for rural electrification in India. After electrifying over 300 households in 27 remote
-hamlets, I transitioned to designing grid-scale solar PV systems at [Vibgyour Energy](https://vibgyorenergy.com/) in New
-Delhi, India. This job provided me with hands-on experience in designing and managing grid-scale projects.
+As a Mechanical Engineering graduate with a Post Graduation Diploma in Power Plant Engineering, I began my professional
+journey in India by joining Boond, a social enterprise working for rural electrification. With a successful track record
+of electrifying over 300 households in 27 remote hamlets, I progressed to designing grid-scale solar PV systems at
+Vibgyour Energy in New Delhi, India. This role provided me with hands-on experience in designing and managing grid-scale
+projects.
 
 <br>
 
 ### Career Transition to Energy Policy
 
-For creating impact at the grassroots level, I made a career transition to energy policy by
-joining [Bask Research Foundation](https://baskfoundation.org/) as Research Associate. Working
-with [Bask](https://baskfoundation.org/) opened up the world of electricity governance for me. As a research associate,
-I primarily worked on the capacity building of electricity consumers in Rajasthan, India. In addition to this, I
-actively participated in the regulatory matters related to electricity distribution in Rajasthan, India. This job
-involved a lot of travelling to remote and serene villages of Rajasthan enriching both my career and soul.
+Driven by a desire to create a positive impact at the grassroots level, I transitioned to energy policy by joining Bask
+Research Foundation as a Research Associate. In this capacity, I worked on capacity building of electricity consumers in
+Rajasthan, India, and participated actively in regulatory matters related to electricity distribution in the region.
+This experience included extensive travel to remote and serene villages of Rajasthan, which enriched both my career and
+personal growth.
 <img style="width:33%; float: right" id="image"  src="../gallery/about/anmol_bajju.png">
-During this period I also worked on enhancing my analytical and policy analysis skills. I took courses
-on [Data analysis with python](https://nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS59S41500241a0ad9d911e9bc73479868cce0f2)
-and [Energy economy and policy](https://nptel.ac.in/?q=NPTEL19HS42S61500399a0ad9d911e9bc73479868cce0f2) offered
-by [IIT Madras](https://www.iitm.ac.in/). To improve my understanding of public policy I
-attended [i-policy for Young Leaders](https://ccs.in/ipolicy-young-leaders), a crash course organised by
-the [Centre for civil society](https://ccs.in/). I also got an opportunity to attend the workshop
-on [Energy efficiency in emerging economies](https://www.iea.org/programmes/energy-efficiency-in-emerging-economies) by
-[International Energy Agency](https://www.iea.org/). This program not only helped me understand the fundamentals of
+During this period, I also focused on enhancing my analytical and policy analysis skills by taking
+courses on Data analysis with Python and Energy economy and policy offered by IIT Madras, attending i-policy for Young
+Leaders, a crash course organised by the Centre for Civil Society, and attending the workshop on Energy efficiency in
+emerging economies by the International Energy Agency. These programs not only helped me understand the fundamentals of
 energy efficiency but also connected me with young aspiring leaders working for energy transition at the policy front.
 
 <br>
 
 ### Moving to The Netherlands
 
-I moved to the Netherlands in 2020 to master the craft of policy analysis using data-driven tools and simulation
-at [TU Delft](https://www.tudelft.nl/).
-[EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis) (Engineering and
-Policy Analysis) allowed me to work on multiple interdisciplinary real-world problems. To get the most out of my
-master's experience, I am following the
-HPM [(Honours Programme Master)](https://www.tudelft.nl/studenten/faculteiten/tnw-studentenportal/onderwijs/honours-programme-tnw/hpm-honours-programme-master)
-track of my program.
+In 2020, I moved to the Netherlands to pursue a master's degree in policy analysis using data-driven tools and
+simulation at TU Delft. As a part of the Engineering and Policy Analysis (EPA) program, I worked on multiple
+interdisciplinary real-world problems. To make the most of my master's experience, I am following the Honours Programme
+Master (HPM) track of my program, with a focus on the modelling and simulation track of EPA. Consequently, I joined the
+HERoS-EU project as a Research Assistant and contributed to building an agent-based model of the Hague to simulate the
+spread of infection in the city.
 <img style="width:33%; float: left" id="image"  src="../gallery/about/anmol_efteling.png">
-The modelling and simulation track
-of [EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis) attracted me the
-most. Therefore, I joined the [HERoS-EU project](https://www.heros-project.eu/)  as Research Assistant and helped in building an
-agent-based model of the Hague to simulate the spread of infection in the city.
-
-During my first year of master's, I also served as a board member of [Dentatus](https://dentatus.curius.nl/), 
-the study association
-of [EPA](https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis). In my second year,
-I served as [TPM faculty](https://www.tudelft.nl/tbm) ambassador
-for [Delft Global Student Club](https://issuu.com/delftglobalstudentclub/docs/owee_flyer_dgsc_2_), an initiative for
-promoting research and sustainability projects in global south. I also took editorial role for publishing the first
-edition of Delft Global Student Club magazine.
 
 <br>
 
-> Last updated in August 2022, stay tuned for more chapters.
+In addition to my academic pursuits, I have been an active member of various student associations. During my first year
+of the master's program, I served as a board member of Dentatus, the study association of EPA. In my second year, I
+served as TPM faculty ambassador for Delft Global Student Club, an initiative for promoting research and sustainability
+projects in the global south. I also took on an editorial role for publishing the first edition of Delft Global Student
+Club magazine.
+
+<br>
+
+### PhD Journey
+
+Upon completing my master's degree, I was determined to pursue a career that would allow me to tackle global challenges
+at the intersection of technology, policy, and society. This led me to discover a unique opportunity to work as a
+doctoral candidate at Maastricht University, in 2023, where I was drawn to both the research topic and the beauty of the
+city.
+
+<br>
+
+My doctoral research focuses on the intricate interplay between climate policies, public sentiment, and macroeconomic
+firm behavior. To analyze the complex relationships between these factors, I plan to employ a range of mixed research
+methods, including social media analysis and agent-based modeling. Through my research, I strive to provide data-driven
+insights that can support effective policymaking in addressing the
+urgent challenge of climate change.
+
+<br>
+
+---
+<br>
+
+I hope this summary gives you a better understanding of my professional journey. If you have any questions or want to
+know more, please feel free to contact me. This summary was last updated in August 2022, and I look forward to writing
+more chapters in my professional journey.

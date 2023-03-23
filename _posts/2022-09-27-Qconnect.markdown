@@ -5,23 +5,24 @@ date: 27-09-2022
 img: qconnect.png
 alt: image-alt
 project-date:
-client: 
+client:
 category:
 description:
 ---
+
 # Q-connect
+### Improving Plastic Circularity in Dutch Automotive Industry through Agent-Based Modelling 
 
 <br>
 
-This project was a deliverable for the course Advanced Agent Based Modelling (2021/22 Q2) at TU Delft in collaboration
-with RIVM (National Institute for Public Health and the Environment).
-RIVM wanted to improve the circularity of plastic in Dutch automotive industry.
-For this purpose, they conducted stakeholder interviews and focused discussions for identifying the key barriers,
-opportunities, and policy solutions.
-RIVM formulated a set of policies and wanted to evaluate the effectiveness of these policies.
-Our group developed an agent-based model for virtually testing policy effectiveness. The model is very modular and
-can be accessed through this [link](https://github.com/max-reddel/QONNECT).
+This project was conducted as part of the Advanced Agent Based Modelling course at TU Delft during the second quarter of
+the 2021/22 academic year. The project was carried out in collaboration with RIVM (National Institute for Public Health
+and the Environment), with the aim of improving the circularity of plastic in the Dutch automotive industry. To achieve
+this goal, RIVM conducted stakeholder interviews and focused discussions to identify key barriers, opportunities, and
+policy solutions. Based on these findings, RIVM formulated a set of policies and sought to evaluate their effectiveness.
 
 <br>
 
-If you want to know more about this project, feel free to [contact me](mailto:anmol_soni@outlook.com).
+Our group developed an agent-based model to virtually test the effectiveness of these policies. The model is highly
+modular and can be accessed via the provided [link](https://github.com/max-reddel/QONNECT). If you are interested in learning more about this project, please
+feel free to [contact me](mailto:anmol_soni@outlook.com).
