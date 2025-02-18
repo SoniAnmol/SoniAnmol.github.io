@@ -2,33 +2,27 @@
 title: Anmol Soni
 email: anmol_soni@outlook.com
 url: https://sonianmol.com
-description: "Social data scientist with a background in sustainable energy and policy advocacy   Tags: Agent-based modelling, System dynamics, Data analysis, Data visualisation, Stakeholder management, Actor strategy modelling, Strategy consultation"
+description: "Social data scientist with a background in sustainable energy and policy advocacy"
+tags: ["Agent-based modelling", "System dynamics", "Data analysis", "Data visualisation", "Stakeholder management", "Actor strategy modelling", "Strategy consultation"]
 keywords: "Policy Analysis, Data Scientist, Consultancy, Modelling and Simulation, Strategy, Complex problems"
 skills: "Social Data Scientist | Climate Economist | Policy Analyst"
 meta_author: Soni Anmol
 
 # Google webmaster tools
 google_verify: uMA-8vR4zHpseWe7-7ytPQ3NpxZwGXZrAH_hxL4xubE
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-#contact: static
+contact: static
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-#disqus_shortname: disqus_pohXnagAnQ
+disqus_shortname:
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c2c2c2 #476481 #80B3FF
-  primary-rgb: "44, 62, 80" #"24,288,156" #"128,179,255"
-  secondary:  2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: c2c2c2
+  primary-rgb: "44, 62, 80"
+  secondary: 2c3e50
+  secondary-dark: 233140
 
 # Footer settings
 footer:
@@ -37,7 +31,7 @@ footer:
   social: Socials
   credits: E-Mail
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames
 social:
   - title: twitter
     url: http://twitter.com/anmol_soni
@@ -50,10 +44,9 @@ social:
 
 credits: <a href="mailto:anmol_soni@outlook.com" style="color:#FFC300;">anmol_soni@outlook.com </a>
 
-# Postal address (add as many lines as necessary)
+# Postal address
 address:
   - line: <a href="https://cal.com/anmol-soni/30min" style="color:#FFC300;">Schedule a meeting </a>
-
 
 # Build settings
 markdown: kramdown
