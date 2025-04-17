@@ -497,6 +497,38 @@ body {
     box-sizing: border-box;
 }
 
+.teaching-card a:hover {
+    color: #0a58ca;
+    text-decoration: underline;
+  }
+
+.section-title {
+font-size: 3rem; /* or 3rem for larger */
+font-weight: 700;
+color: #000;       /* or whatever heading color you want */
+margin-bottom: 0.5em;
+}
+
+.text-muted {
+    color: #555 !important;  /* or pick another readable color */
+}
+
+.hr-custom {
+    width: 60px;
+    height: 3px;
+    background-color: #444;
+    border: none;
+    margin: 0.5rem auto 1.5rem auto;
+  } 
+
+.section-paragraph {
+    font-size: 2rem;
+    line-height: 1.7;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto 1rem auto;
+    }  
+
 /* Debug: temporarily add this
 * {
     outline: 1px solid rgba(255, 0, 0, 0.2);
