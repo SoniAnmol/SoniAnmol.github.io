@@ -29,7 +29,7 @@ a.active {
 }
 
 a.focus {
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 h1,
@@ -40,7 +40,7 @@ h5,
 h6 {
     color: #000000;
     text-transform: uppercase;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     font-weight: 500;
 }
 
@@ -69,13 +69,13 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 2em;
     font-weight: 500;
 }
 
 header .intro-text .skills {
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.25em;
     font-weight: 300;
 }
@@ -124,7 +124,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     font-weight: 500;
 }
 
@@ -156,7 +156,7 @@ section h2 {
 
 section.success {
     color: #000000;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     background: #ffffff;
 }
 
@@ -211,7 +211,7 @@ transition: all ease .5s;
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 20px;
     color: #fff;
 }
@@ -279,11 +279,8 @@ transition: all ease .5s;
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }
-}
-
-;
-background: #fff;
+    background: #fff;
+    color: #{{ site.color.primary }};
 }
 
 /*.floating-label-form-group {*/
@@ -357,7 +354,7 @@ footer footer.active {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }
+    background-color: #{{ site.color.secondary }};
 }
 
 ;
@@ -369,10 +366,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }
-}
-
-;
+    background-color: #{{ site.color.secondary-dark }};
 }
 
 .btn-social {
@@ -419,7 +413,7 @@ footer .footer-below {
     border: 0;
     border-radius: 0;
     text-align: center;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -428,7 +422,7 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .portfolio-modal .modal-content img {
@@ -437,7 +431,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
-    font-family: monospace, monospace;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .portfolio-modal .close-modal {
@@ -459,10 +453,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }
-}
-
-;
+    background-color: #{{ site.color.secondary }};
 -webkit-transform: rotate(45deg);
 -ms-transform: rotate(45deg);
 transform: rotate(45deg);
@@ -472,21 +463,15 @@ transform: rotate(45deg);
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }
-}
-
-;
+    background-color: #{{ site.color.secondary }};
 -webkit-transform: rotate(90deg);
 -ms-transform: rotate(90deg);
-transform: rotate(90deg);
-}
+transform: rotate(90deg);}
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }
-}
+    background-color: #{{ site.color.secondary-dark }}
 
-!important;
-}
+!important;}
 
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
