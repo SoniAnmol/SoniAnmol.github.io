@@ -1,17 +1,23 @@
 <!-- Header -->
 <header>
   <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <img class="img-responsive" src="img/profile.png" alt="profile-pic" style="width:300px;h" />
+    <div class="row justify-content-center">
+      <div class="col-lg-12 text-center">
+        <img class="img-responsive mb-3" src="img/profile.png" alt="profile-pic" style="width: 250px; border-radius: 100%;" />
         <br>
         <div class="intro-text">
-          <span class="name">{{ site.title }}</span>
-          <hr class="star-light" />
-          <br>
-          <span class="skills">{{ site.skills }}</span>
+          <h1 class="name mb-2">{{ site.title }}</h1>
+          <hr class="star-light mx-auto" style="width: 60px; border-top: 2px solid #ccc;" />
+
+          <div class="intro-subtitle mt-3">
+            <p class="mb-1">
+              <a href="https://www.maastrichtuniversity.nl/nl/soni" class="academic-link">
+                PhD Candidate at Maastricht University
+              </a>
+            </p>
+            <p class="subtitle-tagline">Tackling ‘wicked’ problems with Data Science</p>
+          </div>
         </div>
-        <br>
       </div>
     </div>
   </div>
