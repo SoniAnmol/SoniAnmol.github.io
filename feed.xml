@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <link href="https://sonianmol.com/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://sonianmol.com/" rel="alternate" type="text/html" />
-  <updated>2025-04-22T15:23:09+00:00</updated>
-  <id>https://sonianmol.com/</id>
+  <link href="https://sonianmol.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" />
+  <updated>2025-04-22T15:26:23+00:00</updated>
+  <id>https://sonianmol.github.io/</id>
 
   
     <title type="html">Anmol Soni</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Msc_thesis</title>
-      <link href="https://sonianmol.com/" rel="alternate" type="text/html" title="Msc_thesis" />
+      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Msc_thesis" />
       <published>2022-09-27T00:00:00+00:00</published>
       <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.com/msc_thesis</id>
-      <content type="html" xml:base="https://sonianmol.com/">&lt;h1 id=&quot;agent-based-model-analysis-of-demand-response-in-energy-communities&quot;&gt;Agent-Based Model Analysis of Demand Response in Energy Communities&lt;/h1&gt;
+      <id>https://sonianmol.github.io/msc_thesis</id>
+      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;agent-based-model-analysis-of-demand-response-in-energy-communities&quot;&gt;Agent-Based Model Analysis of Demand Response in Energy Communities&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -96,11 +96,11 @@ this &lt;a href=&quot;https://repository.tudelft.nl/islandora/object/uuid:018c9e
   
     <entry>
       <title type="html">Roadmap for integration of geothermal energy in rotterdam</title>
-      <link href="https://sonianmol.com/" rel="alternate" type="text/html" title="Roadmap for integration of  geothermal energy in rotterdam" />
+      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Roadmap for integration of  geothermal energy in rotterdam" />
       <published>2022-09-27T00:00:00+00:00</published>
       <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.com/Roadmap%20for%20Integration%20of%20%20Geothermal%20Energy%20in%20Rotterdam</id>
-      <content type="html" xml:base="https://sonianmol.com/">&lt;h1 id=&quot;roadmap-for-integration-of-geo-thermal-energy-in-rotterdam&quot;&gt;Roadmap for Integration of Geo-Thermal Energy in Rotterdam&lt;/h1&gt;
+      <id>https://sonianmol.github.io/Roadmap%20for%20Integration%20of%20%20Geothermal%20Energy%20in%20Rotterdam</id>
+      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;roadmap-for-integration-of-geo-thermal-energy-in-rotterdam&quot;&gt;Roadmap for Integration of Geo-Thermal Energy in Rotterdam&lt;/h1&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -166,11 +166,11 @@ more about this project, feel free to &lt;a href=&quot;mailto:anmol_soni@outlook
   
     <entry>
       <title type="html">Qconnect</title>
-      <link href="https://sonianmol.com/" rel="alternate" type="text/html" title="Qconnect" />
+      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Qconnect" />
       <published>2022-09-27T00:00:00+00:00</published>
       <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.com/Qconnect</id>
-      <content type="html" xml:base="https://sonianmol.com/">&lt;h1 id=&quot;q-connect&quot;&gt;Q-connect&lt;/h1&gt;
+      <id>https://sonianmol.github.io/Qconnect</id>
+      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;q-connect&quot;&gt;Q-connect&lt;/h1&gt;
 &lt;h3 id=&quot;improving-plastic-circularity-in-dutch-automotive-industry-through-agent-based-modelling&quot;&gt;Improving Plastic Circularity in Dutch Automotive Industry through Agent-Based Modelling&lt;/h3&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -213,11 +213,11 @@ feel free to &lt;a href=&quot;mailto:anmol_soni@outlook.com&quot;&gt;contact me&
   
     <entry>
       <title type="html">Professional journey</title>
-      <link href="https://sonianmol.com/" rel="alternate" type="text/html" title="Professional journey" />
+      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Professional journey" />
       <published>2021-11-01T00:00:00+00:00</published>
       <updated>2021-11-01T00:00:00+00:00</updated>
-      <id>https://sonianmol.com/professional%20Journey</id>
-      <content type="html" xml:base="https://sonianmol.com/">&lt;h1 id=&quot;professional-journey&quot;&gt;Professional Journey&lt;/h1&gt;
+      <id>https://sonianmol.github.io/professional%20Journey</id>
+      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;professional-journey&quot;&gt;Professional Journey&lt;/h1&gt;
 
 &lt;p&gt;This is a short summary of my professional journey till now. If you have any questions or want to know more, please feel
 to &lt;a href=&quot;mailto:anmol_soni@outlook.com&quot;&gt;contact me&lt;/a&gt;&lt;/p&gt;

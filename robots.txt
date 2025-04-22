@@ -1,1 +1,1 @@
-Sitemap: https://sonianmol.com/sitemap.xml
+Sitemap: https://sonianmol.github.io/sitemap.xml
