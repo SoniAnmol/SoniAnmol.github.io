@@ -249,24 +249,39 @@ footer {
     line-height: 1.6;
     color:#000
 }
-  .btn-social {
+.btn-social {
     display: inline-block;
     width: 40px;
     height: 40px;
     font-size: 18px;
     line-height: 40px;
     text-align: center;
-    border: 1px solid #444;
+    border: 1px solid #000;
     border-radius: 50%;
+    background-color: transparent;
     color: #000;
     transition: all 0.3s ease;
-    background: transparent;
-}
+  }
+  
+  /* Target the actual SVG icon */
+  .btn-social svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    transition: fill 0.3s ease;
+  }
+  
+  /* Invert colors on hover */
   .btn-social:hover {
-    color: #000;
-    border-color: #000;
     background-color: transparent;
-}
+    color: #1a1a1a;
+    border-color: #000;
+  }
+  
+  
+  
+  
   .scroll-top .btn {
     background: #fff;
     color: #000;
@@ -411,6 +426,9 @@ color: #fff;
   .navbar-toggle {
     border-color: #000;
 }
+.navbar .navbar-toggle .icon-bar {
+    background-color: #000 !important;
+  }
   .navbar-toggle .icon-bar {
     background-color: #000;
 }
@@ -445,9 +463,10 @@ color: #fff;
 }
   .cv-button {
     display: inline-block;
-    font-size: 2rem;
-    padding: 1rem 2rem;
-    border: 2px solid #444;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    padding: 1rem 1rem;
+    border: 1.5px solid #444;
     color: #000;
     background: transparent;
     text-decoration: none;

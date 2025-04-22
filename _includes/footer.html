@@ -1,46 +1,53 @@
 <!-- Footer -->
-<footer class="text-center" style="color: #000;">
-  <div class="footer-above">
+<footer style="color: #000;">
+  <div class="footer-below" style="background-color: #f8f9fa; color: #000; padding: 1rem 0;">
     <div class="container">
       <div class="row">
-        <div class="footer-col col-md-4">
-          <h3 style="color: #000;">{{ site.footer.location }}</h3>
-          <p>
-            {% for adress in site.address %}
-              <span style="color: #000;">{{ adress.line }}</span><br>
-            {% endfor %}
-          </p>
-        </div>
-        <div class="footer-col col-md-4">
-          <h3 style="color: #000;">{{ site.footer.social }}</h3>
-          <ul class="list-inline">
-            {% for network in site.social %}
-            <li>
-              <a href="{{ network.url }}" class="btn-social btn-outline" style="color: #000; border-color: #000;">
-                <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="footer-col col-md-4">
-          <h3 style="color: #000;">{{ site.footer.credits }}</h3>
-          <p style="color: #000;">{{ site.credits }}</p>
-        </div>
-      </div>
-    </div>
-  </div>
+        <div class="col-xs-12">
+          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-  <div class="footer-below" style="background-color: #f8f9fa; color: #000;">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+            <!-- Left: Social & Contact Icons -->
+            <div style="display: flex; align-items: center; flex-wrap: wrap;">
+              <ul class="list-inline" style="margin: 0; padding: 0;">
+                {% for network in site.social %}
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="{{ network.url }}" class="btn-social btn-outline" aria-label="{{ network.title }}">
+                    <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
+                  </a>
+                </li>
+                {% endfor %}
+
+                <!-- Email -->
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="mailto:your.email@example.com" class="btn-social btn-outline" aria-label="Email Anmol">
+                    <i class="fa-solid fa-envelope"></i>
+                  </a>
+                </li>
+
+                <!-- Schedule Call -->
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="https://calendly.com/yourusername" class="btn-social btn-outline" aria-label="Schedule a call with Anmol">
+                    <i class="fa-solid fa-calendar-days"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Right: Copyright -->
+            <div style="text-align: right;">
+              <p class="mb-0" style="font-size: 14px; margin: 0;">
+                &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+              </p>
+            </div>
+
+          </div>
         </div>
       </div>
     </div>
   </div>
 </footer>
+
+
 
 <!-- Scroll to Top Button -->
 <div class="scroll-top page-scroll visible-xs visible-sm">
