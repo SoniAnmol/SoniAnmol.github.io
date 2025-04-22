@@ -462,6 +462,8 @@ color: #fff;
     color: #fff;
     text-decoration: none;
 }
+
+
   .teaching-card {
     color: #000;
     text-decoration: none;
@@ -473,12 +475,17 @@ color: #fff;
   .teaching-card h3 a {
     color: #000; 
     text-decoration: none;
-    font-weight: 600;
-    font-size: 2.5rem;
+    font-weight: 300;
+    font-size: 2.25rem;
 }
   .teaching-card a:hover {
     color: #222; 
     text-decoration: underline; 
+}
+.teaching-card p {
+    color: #000; 
+    text-decoration: none;
+    font-size: 1.5rem;
 }
   .section-title {
     font-size: 2.2rem;
@@ -493,10 +500,14 @@ color: #fff;
     text-decoration: underline;
 }
   .course-icon {
-    font-size: 1.1em;
-    color: #222;
+    font-size: 2rem;
+    color: #1a1a1a;
     margin-right: 0.5em;
 }
+
+
+  
+
 /* Debug: temporarily add this
 * {
     outline: 1px solid rgba(255, 0, 0, 0.2);
