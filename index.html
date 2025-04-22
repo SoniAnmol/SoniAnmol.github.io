@@ -14,6 +14,7 @@
   <link rel="icon" href="img/favicon.png" type="image/x-icon">
 
 
+
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href=" style.css">
 
@@ -29,6 +30,7 @@
   <link href="//fonts.googleapis.com/css?family=monospace:400,700" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/your-kit-id.js" crossorigin="anonymous"></script>
 
   
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -80,8 +82,6 @@
         <li class="page-scroll">
           <a href="#teaching">Teaching</a>
         </li>
-        <li class="page-scroll">
-          <a href="#curriculum_vitae">CV</a>
         </li>
       </ul>
     </div>
@@ -89,14 +89,7 @@
   </div>
   <!-- /.container-fluid -->
 </nav>
-  <!-- Mobile-only Hamburger -->
-<div class="visible-xs visible-sm text-end px-3 py-2">
-  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
-    <span class="icon-bar"></span>
-    <span class="icon-bar"></span>
-    <span class="icon-bar"></span>
-  </button>
-</div>
+  
 
 <!-- Header -->
 <header>
@@ -123,8 +116,7 @@
   </div>
 </header>
 
-  
-<!-- About Section -->
+  <!-- About Section -->
 <section id="about" class="py-6">
   <div class="container">
     <div class="row">
@@ -132,54 +124,115 @@
       <div class="col-md-8">
         <h2 class="section-title mb-2">About</h2>
         <hr class="my-2" style="width: 60px; border: 1px solid #bbb; margin-left: 0;">
+        
         <p class="mt-4" style="font-size: 2rem; line-height: 1.25; font-weight: 500; color: #000;">
           I am a social data scientist with a deep fascination for the problems located at the intersection of technology, policy, and society.
         </p>
         <p style="font-size: 2rem; line-height: 1.25; font-weight: 500; color: #000;">
-          As a doctoral candidate at <strong>Maastricht University</strong>, I explore how narratives around extreme weather events interact with public sentiment and climate perceptions. My research draws from natural language processing, computational social science, agent based modelling and climate communication to understand how people make sense of climate change. 
+          As a doctoral candidate at <strong>Maastricht University</strong>, I explore how narratives around extreme weather events interact with public sentiment and climate perceptions. My research draws from natural language processing, computational social science, agent-based modelling, and climate communication to understand how people make sense of climate change.
         </p>
         <p style="font-size: 2rem; line-height: 1.25; font-weight: 500; color: #000;">
           Outside of research, I enjoy walking in nature, lifting weights, and honing my guitar skills.
         </p>
+
+        <!-- CV Button + Social Icons Row (aligned) -->
+        <div class="row" style=" margin-top: 2rem;">
+          <div class="col-xs-12" style="margin-left: 0%;">
+            <div style="display: inline-block; vertical-align: middle; line-height: 1;">
+              <a href="../gallery/Anmol_Soni_Resume_19-09-2022-14-02-45.pdf"
+                class="cv-button"
+                target="_blank"
+                role="button"
+                aria-label="Download Anmol Soni's Curriculum Vitae"
+                style="padding: 0.65rem 1.5rem; display: inline-block; line-height: 1.8; vertical-align: middle;position: relative; top: 0.75rem; ">
+                📄 Download CV
+              </a>
+            </div>
+
+            <div style="display: inline-block; vertical-align: middle; margin-left: 1rem;">
+              
+              <a href="http://twitter.com/anmol_soni"
+                class="btn-social btn-outline"
+                style="color: #000; border-color: #000; margin-right: 0.5rem;"
+                aria-label="twitter">
+                <i class="fa-brands fa-fw fa-twitter"></i>
+              </a>
+              
+              <a href="http://instagram.com/anmolnymous"
+                class="btn-social btn-outline"
+                style="color: #000; border-color: #000; margin-right: 0.5rem;"
+                aria-label="instagram">
+                <i class="fa-brands fa-fw fa-instagram"></i>
+              </a>
+              
+              <a href="http://github.com/SoniAnmol"
+                class="btn-social btn-outline"
+                style="color: #000; border-color: #000; margin-right: 0.5rem;"
+                aria-label="github">
+                <i class="fa-brands fa-fw fa-github"></i>
+              </a>
+              
+              <a href="http://linkedin.com/in/a-soni"
+                class="btn-social btn-outline"
+                style="color: #000; border-color: #000; margin-right: 0.5rem;"
+                aria-label="linkedin">
+                <i class="fa-brands fa-fw fa-linkedin"></i>
+              </a>
+              
+              <!-- Email Icon -->
+              <a href="mailto:your.email@example.com"
+              class="btn-social btn-outline"
+              style="color: #000; border-color: #000; margin-right: 0.5rem;"
+              aria-label="Email Anmol">
+              <i class="fa-solid fa-envelope"></i>
+              </a>
+
+              <!-- Schedule Call Icon -->
+              <a href="https://calendly.com/yourusername"
+              class="btn-social btn-outline"
+              style="color: #000; border-color: #000; margin-right: 0.5rem;"
+              aria-label="Schedule a call with Anmol">
+              <i class="fa-solid fa-calendar-days"></i>
+              </a>
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- Right Column: Education + Interests -->
       <div class="col-md-4">
-        <div class="mb-4">
-          <br><br><br>
+        <div class="mb-4" style="margin-top: 5rem;">
           <h5 class="mb-2" style="font-size: 2rem; font-weight: 600; color: #000;">Education</h5>
           <ul class="list-unstyled" style="font-size: 1.5rem; font-weight: 500; line-height: 1.6; color: #000;">
             <li>
-              <a href="" target="_blank" rel="noopener noreferrer" class="text-dark">
-              <strong>PhD</strong>, Maastricht University  </a><br>
+              <a href="#" class="text-dark" target="_blank">
+                <strong>PhD</strong>, Maastricht University
+              </a><br>
               <span class="text-muted">(2022–present)</span>
             </li>
             <li>
-              <strong>
-                <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis" target="_blank" rel="noopener noreferrer" class="text-dark">
-                  M.Sc. Engineering and Policy Analysis
-               
-              </strong> - TU Delft </a>
-              <span class="text-muted">(2020–21)</span>
+              <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/epa/msc-engineering-and-policy-analysis" class="text-dark" target="_blank">
+                <strong>M.Sc. Engineering and Policy Analysis</strong> – TU Delft
+              </a><br>
+              <span class="text-muted">(2020–2021)</span>
             </li>
             <li>
-              <strong>
-                <a href="https://nagpuruniversity.ac.in/" target="_blank" rel="noopener noreferrer" class="text-dark">
-                  B.Eng. Mechanical</strong> - R.T.M. Nagpur University</a>
-                  <br>
-              <span class="text-muted">(2011–15)</span>
+              <a href="https://nagpuruniversity.ac.in/" class="text-dark" target="_blank">
+                <strong>B.Eng. Mechanical</strong> – R.T.M. Nagpur University
+              </a><br>
+              <span class="text-muted">(2011–2015)</span>
             </li>
           </ul>
-          
         </div>
+
         <div>
           <h5 class="mb-2" style="font-size: 2rem; font-weight: 600; color: #000;">Interests</h5>
           <ul class="list-unstyled" style="font-size: 1.5rem; font-weight: 500; line-height: 1.6; color: #000;">
             <li>Climate Narratives | Narrative Economics</li>
             <li>Natural Language Processing | LLMs</li>
             <li>Computational Social Science</li>
-            <li>Climate communication | Policy Communication</li>
-            <li>Modelling and Simulations | Agent Based Modelling</li>
+            <li>Climate Communication | Policy Communication</li>
+            <li>Modelling and Simulations | Agent-Based Modelling</li>
           </ul>
         </div>
       </div>
@@ -322,94 +375,74 @@
   </div>
 </section>
 
-  <!-- Curriculum Vitae -->
-<section id="curriculum_vitae" class="py-3">
-  <div class="container">
-    <div class="row mb-4 text-center">
-      <div class="col-lg-12">
-        <h2 class="section-title">Curriculum Vitae</h2>
-        <hr class="mx-auto" style="width: 60px; height: 3px; background-color: #444;">
-      </div>
-    </div>
-
-    <!-- Centered Button (absolute fix) -->
-    <div class="row">
-      <div class="col-12" style="text-align: center;">
-        <br><br>
-        <a href="../gallery/Anmol_Soni_Resume_19-09-2022-14-02-45.pdf"
-        class="cv-button"
-        target="_blank"
-        role="button"
-        aria-label="Download Anmol Soni's Curriculum Vitae">
-        📄 Download CV
-      </a>
-
-      </div>
-    </div>
-  </div>
-</section>
-
   <!-- Footer -->
-<footer class="text-center" style="color: #000;">
-  <div class="footer-above">
+<footer style="color: #000;">
+  <div class="footer-below" style="background-color: #f8f9fa; color: #000; padding: 1rem 0;">
     <div class="container">
       <div class="row">
-        <div class="footer-col col-md-4">
-          <h3 style="color: #000;">Let's Connect</h3>
-          <p>
-            
-              <span style="color: #000;"><a href="https://cal.com/anmol-soni/30min" style="color:#FFC300;">Schedule a meeting </a></span><br>
-            
-          </p>
-        </div>
-        <div class="footer-col col-md-4">
-          <h3 style="color: #000;">Socials</h3>
-          <ul class="list-inline">
-            
-            <li>
-              <a href="http://twitter.com/anmol_soni" class="btn-social btn-outline" style="color: #000; border-color: #000;">
-                <i class="fa-brands fa-fw fa-twitter"></i>
-              </a>
-            </li>
-            
-            <li>
-              <a href="http://instagram.com/anmolnymous" class="btn-social btn-outline" style="color: #000; border-color: #000;">
-                <i class="fa-brands fa-fw fa-instagram"></i>
-              </a>
-            </li>
-            
-            <li>
-              <a href="http://github.com/SoniAnmol" class="btn-social btn-outline" style="color: #000; border-color: #000;">
-                <i class="fa-brands fa-fw fa-github"></i>
-              </a>
-            </li>
-            
-            <li>
-              <a href="http://linkedin.com/in/a-soni" class="btn-social btn-outline" style="color: #000; border-color: #000;">
-                <i class="fa-brands fa-fw fa-linkedin"></i>
-              </a>
-            </li>
-            
-          </ul>
-        </div>
-        <div class="footer-col col-md-4">
-          <h3 style="color: #000;">E-Mail</h3>
-          <p style="color: #000;"><a href="mailto:anmol_soni@outlook.com" style="color:#FFC300;">anmol_soni@outlook.com </a></p>
-        </div>
-      </div>
-    </div>
-  </div>
+        <div class="col-xs-12">
+          <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
-  <div class="footer-below" style="background-color: #f8f9fa; color: #000;">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          Copyright &copy; AnmolSoni 2025
+            <!-- Left: Social & Contact Icons -->
+            <div style="display: flex; align-items: center; flex-wrap: wrap;">
+              <ul class="list-inline" style="margin: 0; padding: 0;">
+                
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="http://twitter.com/anmol_soni" class="btn-social btn-outline" aria-label="twitter">
+                    <i class="fa-brands fa-fw fa-twitter"></i>
+                  </a>
+                </li>
+                
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="http://instagram.com/anmolnymous" class="btn-social btn-outline" aria-label="instagram">
+                    <i class="fa-brands fa-fw fa-instagram"></i>
+                  </a>
+                </li>
+                
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="http://github.com/SoniAnmol" class="btn-social btn-outline" aria-label="github">
+                    <i class="fa-brands fa-fw fa-github"></i>
+                  </a>
+                </li>
+                
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="http://linkedin.com/in/a-soni" class="btn-social btn-outline" aria-label="linkedin">
+                    <i class="fa-brands fa-fw fa-linkedin"></i>
+                  </a>
+                </li>
+                
+
+                <!-- Email -->
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="mailto:your.email@example.com" class="btn-social btn-outline" aria-label="Email Anmol">
+                    <i class="fa-solid fa-envelope"></i>
+                  </a>
+                </li>
+
+                <!-- Schedule Call -->
+                <li class="list-inline-item" style="margin-right: 0.5rem;">
+                  <a href="https://calendly.com/yourusername" class="btn-social btn-outline" aria-label="Schedule a call with Anmol">
+                    <i class="fa-solid fa-calendar-days"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+
+            <!-- Right: Copyright -->
+            <div style="text-align: right;">
+              <p class="mb-0" style="font-size: 14px; margin: 0;">
+                &copy; AnmolSoni 2025
+              </p>
+            </div>
+
+          </div>
         </div>
       </div>
     </div>
   </div>
 </footer>
+
+
 
 <!-- Scroll to Top Button -->
 <div class="scroll-top page-scroll visible-xs visible-sm">
