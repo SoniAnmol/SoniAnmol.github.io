@@ -1,7 +1,8 @@
 # Site settings
 title: Anmol Soni
 email: anmol_soni@outlook.com
-url: https://sonianmol.com
+baseurl: ""
+url: "https://sonianmol.github.io"
 description: "PhD Candidate at Maastricht University. Social data scientist with a background in sustainable energy and policy advocacy"
 tags:
   [
