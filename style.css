@@ -525,6 +525,10 @@ color: #fff;
     color: #002b5c;
     text-decoration: underline;
 }
+    a.text-list:hover {
+        color: #000;
+        text-decoration: underline;
+    }
   .course-icon {
     font-size: 2rem;
     color: #1a1a1a;
