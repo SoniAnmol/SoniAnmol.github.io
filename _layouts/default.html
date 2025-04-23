@@ -4,13 +4,21 @@
 
 <body id="page-top" class="index">
   {% include nav.html %}
-  {% include header.html %}
-  {% include about.html %}
-  {% include research.html %}
-  {% include teaching.html %}
+  
+  {% if page.url == "/" %}
+    {% include header.html %}
+    {% include about.html %}
+    {% include research.html %}
+    {% include teaching.html %}
+  {% else %}
+    {{ content }}
+  {% endif %}
+
   {% include footer.html %}
   {% include modals.html %}
   {% include js.html %}
 </body>
+
+
 
 </html>

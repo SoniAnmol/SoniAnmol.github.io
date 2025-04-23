@@ -1,0 +1,43 @@
+---
+layout: page
+title: Posts
+permalink: /posts/
+---
+
+<section id="posts" class="py-5">
+  <div class="container">
+    <div class="row mb-4">
+      <div class="col-lg-12">
+        <h2 class="section-title mb-2">Posts</h2>
+        <hr class="my-2" style="width: 60px; border: 1px solid #bbb; margin-left: 0;">
+        <p class="lead mt-3" style="font-size: 1.5rem; font-weight: 500; color: #000;">
+          Occasional updates on research, data, projects and personal musings.
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      {% for post in site.posts %}
+        <div class="col-md-6 mb-5">
+          <div class="teaching-card p-4 shadow-sm rounded bg-white h-100">
+            {% if post.img %}
+            <div style="max-height: 200px; overflow: hidden; border-radius: 0.5rem; margin-bottom: 1rem;">
+              <!-- <img src="{{ post.img }}" alt="{{ post.alt }}" class="img-fluid w-100" style="object-fit: cover;"> -->
+            </div>
+            {% endif %}
+            <h3 style="font-size: 1.5rem; font-weight: 600;">
+              <a href="{{ post.url }}" class="text-dark text-decoration-none" style="font-size: medium;">{{ post.title }}</a>
+            </h3>
+            <p class="text-muted mb-2" style="font-size: small;">{{ post.date | date: "%B %d, %Y" }}{% if post.category %} · {{ post.category }}{% endif %}</p>
+            {% if post.description %}
+            <p style="font-size: small; font-weight: 500; line-height: 1.6; color: #000;">
+              {{ post.description }}
+            </p>
+            {% endif %}
+            <a href="{{ post.url }}" class="text-muted" style="font-size: 0.9rem;">Read more →</a>
+          </div>
+        </div>
+      {% endfor %}
+    
+    </div>
+  </div>

@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 modal-id: 3
 date: 27-09-2022
 img: qconnect.png
 alt: image-alt
+permalink: /posts/Q-connect
 project-date:
 client:
 category:

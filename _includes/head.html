@@ -9,12 +9,16 @@
   <meta name="author" content="{{ site.meta_author }}">{% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
-  <link rel="icon" href="img/favicon.png" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.png" type="image/x-icon">
+  <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+  <meta name="theme-color" content="#000000">
+
 
 
 
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-  <link rel="stylesheet" href="{{ " style.css" }}">
+  <!-- <link rel="stylesheet" href="{{ "{{ site.baseurl }}/style.css" }}"> -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 
   <!-- Google verification -->
   {% if site.google_verify %}
@@ -25,7 +29,7 @@
   <meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
 
   <!-- Custom Fonts -->
-  <link rel="stylesheet" href="{{ " css/font-awesome/css/all.min.css" }}">
+  <link rel="stylesheet" href="{{ "/css/font-awesome/css/all.min.css" }}">
   <link href="//fonts.googleapis.com/css?family=monospace:400,700" rel="stylesheet" type="text/css">
   <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;600;700&display=swap" rel="stylesheet">

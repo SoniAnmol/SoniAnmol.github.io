@@ -1,9 +1,10 @@
----
-layout: default
+<!-- ---
+layout: page
 modal-id: 4
 date: 2021-11-01
 img: professional_journey.png
 alt: image-alt
+permalink: /posts/professional_journey
 project-date:
 client:
 category:
@@ -85,4 +86,4 @@ urgent challenge of climate change.
 
 I hope this summary gives you a better understanding of my professional journey. If you have any questions or want to
 know more, please feel free to contact me. This summary was last updated in August 2022, and I look forward to writing
-more chapters in my professional journey.
+more chapters in my professional journey. -->
