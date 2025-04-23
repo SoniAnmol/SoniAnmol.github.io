@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://sonianmol.github.io/</loc>
-<lastmod>2021-11-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://sonianmol.github.io/</loc>
+<loc>https://sonianmol.github.io/posts/geo-thermal/</loc>
 <lastmod>2022-09-27T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://sonianmol.github.io/</loc>
-<lastmod>2022-09-27T00:00:00+00:00</lastmod>
+<loc>https://sonianmol.github.io/posts/sais</loc>
+<lastmod>2024-04-03T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://sonianmol.github.io/posts/Q-connect</loc>
 </url>
 <url>
 <loc>https://sonianmol.github.io/</loc>
-<lastmod>2022-09-27T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://sonianmol.github.io/</loc>
+<loc>https://sonianmol.github.io/posts/</loc>
 </url>
 <url>
 <loc>https://sonianmol.github.io/gallery/Anmol_Soni_Resume_19-09-2022-14-02-45.pdf</loc>
-<lastmod>2025-04-23T10:31:41+00:00</lastmod>
+<lastmod>2025-04-23T14:16:29+00:00</lastmod>
 </url>
 </urlset>

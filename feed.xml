@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="https://sonianmol.github.io/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" />
-  <updated>2025-04-23T10:32:02+00:00</updated>
+  <updated>2025-04-23T14:16:56+00:00</updated>
   <id>https://sonianmol.github.io/</id>
 
   
@@ -20,55 +20,37 @@
   
   
     <entry>
-      <title type="html">Msc_thesis</title>
-      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Msc_thesis" />
-      <published>2022-09-27T00:00:00+00:00</published>
-      <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.github.io/msc_thesis</id>
-      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;agent-based-model-analysis-of-demand-response-in-energy-communities&quot;&gt;Agent-Based Model Analysis of Demand Response in Energy Communities&lt;/h1&gt;
+      <title type="html">Reflections on Climate Action in Italy</title>
+      <link href="https://sonianmol.github.io/posts/sais" rel="alternate" type="text/html" title="Reflections on Climate Action in Italy" />
+      <published>2024-04-03T00:00:00+00:00</published>
+      <updated>2024-04-03T00:00:00+00:00</updated>
+      <id>https://sonianmol.github.io/posts/Reflections-from-SAIS</id>
+      <content type="html" xml:base="https://sonianmol.github.io/posts/sais">&lt;h1 id=&quot;reflections-from-the-sais-workshop-on-climate-action-in-italy&quot;&gt;Reflections from the SAIS Workshop on Climate Action in Italy&lt;/h1&gt;
+
+&lt;div class=&quot;mb-4&quot; style=&quot;font-size: 1rem; color: #444;&quot;&gt;
+  &lt;text-muted style=&quot;font-size:2rem&quot;&gt;Conferences and Workshops | April 2024  &lt;/text-muted&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;With the exponential increase in distributed renewable energy, optimizing local electricity consumption and generation
-is necessary to avoid congestion and over-stressing in the distribution network. Recent literature suggests that energy
-communities, along with smart grid applications, can effectively optimize local consumption and generation of
-electricity and stabilize the distribution network.&lt;/p&gt;
+&lt;p&gt;Earlier this month, I had the opportunity to participate in the workshop “Political and Legal Opportunities and Obstacles to Climate Action in Italy” hosted by the Johns Hopkins School of Advanced International Studies (SAIS Europe) in Bologna.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;During a session focused on Italian perspectives on climate change, I presented some early findings from my working paper. The discussion that followed was insightful and energizing — it was a privilege to engage with such a thoughtful and diverse audience of scholars and practitioners.&lt;/p&gt;
 
-&lt;p&gt;Energy communities are bottom-up citizen-driven initiatives involved in generating and consuming electricity from
-renewable sources (e.g., solar PV, wind farms). Traditionally, these communities consist only of residential members who
-use electricity mostly in the morning and evening. Meanwhile, non-residential community members (such as schools, office
-buildings, etc.) located in the neighborhood use electricity mostly during work hours. Thus, this complementary
-electricity consumption profile by residential and non-residential buildings can be utilized through demand response.
-Demand response is an incentive-based policy instrument that rewards consumers for regulating their electricity
-consumption based on availability and pricing. Demand response not only stabilizes the local distribution network but
-also is a step toward an inclusive, affordable, and sustainable energy system.&lt;/p&gt;
+&lt;p&gt;Here are snapshot from the workshop:
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; gap: 2rem; justify-content: center; align-items: flex-start; flex-wrap: wrap; margin-top: 2rem;&quot;&gt;
+  &lt;a href=&quot;https://media.licdn.com/dms/image/v2/D4E22AQGJzq_y_wZ5Kg/feedshare-shrink_1280/feedshare-shrink_1280/0/1713790928272?e=1748476800&amp;amp;v=beta&amp;amp;t=eE9yb_negyggPsI6tfBlE8Lqpp1CC1Bc_fXRQf2hf8o&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;https://media.licdn.com/dms/image/v2/D4E22AQGJzq_y_wZ5Kg/feedshare-shrink_1280/feedshare-shrink_1280/0/1713790928272?e=1748476800&amp;amp;v=beta&amp;amp;t=eE9yb_negyggPsI6tfBlE8Lqpp1CC1Bc_fXRQf2hf8o&quot; alt=&quot;Workshop photo 1&quot; style=&quot;max-width: 100%; height: 200px; object-fit: cover; border-radius: 0.5rem;&quot; /&gt;
+  &lt;/a&gt;
 
-&lt;p&gt;An agent-based model is developed to evaluate the effect of demand response on the self-sufficiency and expenditure on
-electricity import for the modeled energy community. This model allows the user to model an energy community (including
-both residential and non-residential members) and perform experiments to analyze the performance of a community using
-demand response. This model can help decision-makers in preparing an energy plan for the community.&lt;/p&gt;
+  &lt;a href=&quot;https://media.licdn.com/dms/image/v2/D4E22AQHiPqtLc0ngow/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1713790929748?e=1748476800&amp;amp;v=beta&amp;amp;t=y3z0kv2MTTITKpfvZpml65TSiAApP2BIDAoRDXg5CgM&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;https://media.licdn.com/dms/image/v2/D4E22AQHiPqtLc0ngow/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1713790929748?e=1748476800&amp;amp;v=beta&amp;amp;t=y3z0kv2MTTITKpfvZpml65TSiAApP2BIDAoRDXg5CgM&quot; alt=&quot;Workshop photo 2&quot; style=&quot;max-width: 100%; height: 200px; object-fit: cover; border-radius: 0.5rem;&quot; /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/SoniAnmol/Modelling-Dutch-Energy-Communities/blob/main/images/Model-XLRM.png?raw=true&quot; style=&quot;width: 100%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This was my master’s thesis project for M.Sc. Engineering and Policy Analysis at TU Delft. This thesis
-project was done in collaboration with &lt;a href=&quot;https://croonwolterendros.nl/&quot;&gt;Croonwolter&amp;amp;Dros&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/SoniAnmol/Modelling-Dutch-Energy-Communities&quot;&gt;Click here to visit the GitHub repository of the model&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The thesis report is available on the TU Delft repository and can be downloaded from
-this &lt;a href=&quot;https://repository.tudelft.nl/islandora/object/uuid:018c9e3f-9a64-469f-99a8-d9a0cf79308f&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content>
 
       
       
@@ -83,11 +65,13 @@ this &lt;a href=&quot;https://repository.tudelft.nl/islandora/object/uuid:018c9e
       </author>
 
       
-
+        <category term="Conferences and Workshops" />
       
 
       
-        <summary type="html">Agent-Based Model Analysis of Demand Response in Energy Communities</summary>
+
+      
+        <summary type="html">Reflections from the SAIS Workshop on Climate Action in Italy</summary>
       
 
       
@@ -95,14 +79,22 @@ this &lt;a href=&quot;https://repository.tudelft.nl/islandora/object/uuid:018c9e
     </entry>
   
     <entry>
-      <title type="html">Roadmap for integration of geothermal energy in rotterdam</title>
-      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Roadmap for integration of  geothermal energy in rotterdam" />
+      <title type="html">Roadmap for Integration of Geo-Thermal Energy in Rotterdam</title>
+      <link href="https://sonianmol.github.io/posts/geo-thermal/" rel="alternate" type="text/html" title="Roadmap for Integration of Geo-Thermal Energy in Rotterdam" />
       <published>2022-09-27T00:00:00+00:00</published>
       <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.github.io/Roadmap%20for%20Integration%20of%20%20Geothermal%20Energy%20in%20Rotterdam</id>
-      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;roadmap-for-integration-of-geo-thermal-energy-in-rotterdam&quot;&gt;Roadmap for Integration of Geo-Thermal Energy in Rotterdam&lt;/h1&gt;
+      <id>https://sonianmol.github.io/posts/geo-thermal</id>
+      <content type="html" xml:base="https://sonianmol.github.io/posts/geo-thermal/">&lt;h1 id=&quot;roadmap-for-integration-of-geo-thermal-energy-in-rotterdam&quot;&gt;Roadmap for Integration of Geo-Thermal Energy in Rotterdam&lt;/h1&gt;
+
+&lt;div class=&quot;mb-4&quot; style=&quot;font-size: 1rem; color: #444;&quot;&gt;
+  &lt;text-muted style=&quot;font-size:2rem&quot;&gt;Project | 2021–2022  &lt;/text-muted&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/img/portfolio/JIP_Poster.png&quot;&gt;
+  &lt;img style=&quot;width:100%; margin-top: 10%&quot; id=&quot;image&quot; src=&quot;/img/portfolio/JIP_Poster.png&quot; alt=&quot;Roadmap for Geo-Thermal Energy poster&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This project was a part of a Joint Interdisciplinary Project organized by TU Delft in the academic year 2021-22. The
 course brought students from different academic backgrounds together to solve real-world problems. I teamed up with
@@ -123,22 +115,29 @@ a roadmap for integrating geothermal energy into urban planning.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The project deliverables communicated geothermal potential, possible technologies, and space requirements with urban
-planners to support the consideration of geothermal application during urban planning. Additionally, this report
-proposed a framework for involving local citizens in the project to improve social acceptance of geothermal energy.&lt;/p&gt;
+&lt;h2 id=&quot;project-outcomes&quot;&gt;Project outcomes&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Clear roadmap&lt;/strong&gt; presented to city planners, identifying optimal integration points for geothermal plants in Waalhaven.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Communication strategy&lt;/strong&gt; drafted to improve local acceptance and correct misconceptions surrounding geothermal energy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Poster presentation&lt;/strong&gt; created to summarize the framework and deliverables, which was shared with project stakeholders and academic peers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project exemplifies the power of &lt;strong&gt;interdisciplinary collaboration&lt;/strong&gt; and early integration of &lt;strong&gt;sustainability&lt;/strong&gt; into urban planning&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;My contribution to this project was an actor network scan and preparing a social engagement strategy. I also contributed
-to the estimation of heating demand for the planned neighborhood.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The salient features of this project are showcased in the following poster. If you have any questions or want to know
-more about this project, feel free to &lt;a href=&quot;mailto:anmol_soni@outlook.com&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;../img/portfolio/JIP_Poster.png&quot;&gt; 
-    &lt;img style=&quot;width:100%; margin-top: 10% &quot; id=&quot;image&quot; src=&quot;../img/portfolio/JIP_Poster.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+to the estimation of heating demand for the planned neighborhood.&lt;/p&gt;</content>
 
       
       
@@ -152,166 +151,14 @@ more about this project, feel free to &lt;a href=&quot;mailto:anmol_soni@outlook
         
       </author>
 
+      
+        <category term="Project" />
       
 
       
 
       
         <summary type="html">Roadmap for Integration of Geo-Thermal Energy in Rotterdam</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Qconnect</title>
-      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Qconnect" />
-      <published>2022-09-27T00:00:00+00:00</published>
-      <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.github.io/Qconnect</id>
-      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;q-connect&quot;&gt;Q-connect&lt;/h1&gt;
-&lt;h3 id=&quot;improving-plastic-circularity-in-dutch-automotive-industry-through-agent-based-modelling&quot;&gt;Improving Plastic Circularity in Dutch Automotive Industry through Agent-Based Modelling&lt;/h3&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;This project was conducted as part of the Advanced Agent Based Modelling course at TU Delft during the second quarter of
-the 2021/22 academic year. The project was carried out in collaboration with RIVM (National Institute for Public Health
-and the Environment), with the aim of improving the circularity of plastic in the Dutch automotive industry. To achieve
-this goal, RIVM conducted stakeholder interviews and focused discussions to identify key barriers, opportunities, and
-policy solutions. Based on these findings, RIVM formulated a set of policies and sought to evaluate their effectiveness.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our group developed an agent-based model to virtually test the effectiveness of these policies. The model is highly
-modular and can be accessed via the provided &lt;a href=&quot;https://github.com/max-reddel/QONNECT&quot;&gt;link&lt;/a&gt;. If you are interested in learning more about this project, please
-feel free to &lt;a href=&quot;mailto:anmol_soni@outlook.com&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">Q-connect Improving Plastic Circularity in Dutch Automotive Industry through Agent-Based Modelling</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Professional journey</title>
-      <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" title="Professional journey" />
-      <published>2021-11-01T00:00:00+00:00</published>
-      <updated>2021-11-01T00:00:00+00:00</updated>
-      <id>https://sonianmol.github.io/professional%20Journey</id>
-      <content type="html" xml:base="https://sonianmol.github.io/">&lt;h1 id=&quot;professional-journey&quot;&gt;Professional Journey&lt;/h1&gt;
-
-&lt;p&gt;This is a short summary of my professional journey till now. If you have any questions or want to know more, please feel
-to &lt;a href=&quot;mailto:anmol_soni@outlook.com&quot;&gt;contact me&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;designing-solar-pv-systems-for-rural-electrification&quot;&gt;Designing Solar PV Systems for Rural Electrification&lt;/h3&gt;
-
-&lt;p&gt;As a Mechanical Engineering graduate with a Post Graduation Diploma in Power Plant Engineering, I began my professional
-journey in India by joining Boond, a social enterprise working for rural electrification. With a successful track record
-of electrifying over 300 households in 27 remote hamlets, I progressed to designing grid-scale solar PV systems at
-Vibgyour Energy in New Delhi, India. This role provided me with hands-on experience in designing and managing grid-scale
-projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;career-transition-to-energy-policy&quot;&gt;Career Transition to Energy Policy&lt;/h3&gt;
-
-&lt;p&gt;Driven by a desire to create a positive impact at the grassroots level, I transitioned to energy policy by joining Bask
-Research Foundation as a Research Associate. In this capacity, I worked on capacity building of electricity consumers in
-Rajasthan, India, and participated actively in regulatory matters related to electricity distribution in the region.
-This experience included extensive travel to remote and serene villages of Rajasthan, which enriched both my career and
-personal growth.
-&lt;img style=&quot;width:33%; float: right&quot; id=&quot;image&quot; src=&quot;../gallery/about/anmol_bajju.png&quot; /&gt;
-During this period, I also focused on enhancing my analytical and policy analysis skills by taking
-courses on Data analysis with Python and Energy economy and policy offered by IIT Madras, attending i-policy for Young
-Leaders, a crash course organised by the Centre for Civil Society, and attending the workshop on Energy efficiency in
-emerging economies by the International Energy Agency. These programs not only helped me understand the fundamentals of
-energy efficiency but also connected me with young aspiring leaders working for energy transition at the policy front.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;moving-to-the-netherlands&quot;&gt;Moving to The Netherlands&lt;/h3&gt;
-
-&lt;p&gt;In 2020, I moved to the Netherlands to pursue a master’s degree in policy analysis using data-driven tools and
-simulation at TU Delft. As a part of the Engineering and Policy Analysis (EPA) program, I worked on multiple
-interdisciplinary real-world problems. To make the most of my master’s experience, I am following the Honours Programme
-Master (HPM) track of my program, with a focus on the modelling and simulation track of EPA. Consequently, I joined the
-HERoS-EU project as a Research Assistant and contributed to building an agent-based model of the Hague to simulate the
-spread of infection in the city.
-&lt;img style=&quot;width:33%; float: left&quot; id=&quot;image&quot; src=&quot;../gallery/about/anmol_efteling.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition to my academic pursuits, I have been an active member of various student associations. During my first year
-of the master’s program, I served as a board member of Dentatus, the study association of EPA. In my second year, I
-served as TPM faculty ambassador for Delft Global Student Club, an initiative for promoting research and sustainability
-projects in the global south. I also took on an editorial role for publishing the first edition of Delft Global Student
-Club magazine.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;phd-journey&quot;&gt;PhD Journey&lt;/h3&gt;
-
-&lt;p&gt;Upon completing my master’s degree, I was determined to pursue a career that would allow me to tackle global challenges
-at the intersection of technology, policy, and society. This led me to discover a unique opportunity to work as a
-doctoral candidate at Maastricht University, in 2023, where I was drawn to both the research topic and the beauty of the
-city.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;My doctoral research focuses on the intricate interplay between climate policies, public sentiment, and macroeconomic
-firm behavior. To analyze the complex relationships between these factors, I plan to employ a range of mixed research
-methods, including social media analysis and agent-based modeling. Through my research, I strive to provide data-driven
-insights that can support effective policymaking in addressing the
-urgent challenge of climate change.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I hope this summary gives you a better understanding of my professional journey. If you have any questions or want to
-know more, please feel free to contact me. This summary was last updated in August 2022, and I look forward to writing
-more chapters in my professional journey.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">Professional Journey</summary>
       
 
       
