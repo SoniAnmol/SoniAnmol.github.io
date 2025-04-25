@@ -45,14 +45,14 @@ footer:
 
 # Social networks usernames
 social:
-  - title: twitter
+  - title: x
     url: http://x.com/anmol_soni
-  - title: instagram
-    url: http://instagram.com/anmolnymous
   - title: github
     url: http://github.com/SoniAnmol
   - title: linkedin
     url: http://linkedin.com/in/a-soni
+  - title: researchgate
+    url: https://www.researchgate.net/profile/Anmol-Soni-9
 
 credits: <a href="mailto:anmol_soni@outlook.com" style="color:#FFC300;">anmol_soni@outlook.com </a>
 
