@@ -535,6 +535,17 @@ color: #fff;
     margin-right: 0.5em;
 }
 
+.profile-img {
+  width: 250px;
+  border-radius: 100%;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.profile-img:hover {
+  content: url("img/profile-bw.gif");
+}
+
+
 
 
 /* Debug: temporarily add this
