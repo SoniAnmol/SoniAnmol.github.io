@@ -538,19 +538,21 @@ color: #fff;
 .profile-wrapper {
   position: relative !important;
   display: inline-block !important; /* act like an <img> in flow */
-  margin-bottom: 1rem !important;   /* matches mb-3 */
-  width: 250px; 
-  height: 250px;
+  margin: 0 auto 1rem auto !important; /* centers + keeps mb spacing */
+  width: clamp(160px, 22vw, 250px) !important;
+  height: clamp(160px, 22vw, 250px) !important;
 }
 
-/* anchor wrapper size from the PNG, stack the GIF on top */
+/* Stack both images and fill the wrapper exactly */
 .profile-wrapper .profile-img {
   display: block !important;
+  position: absolute !important;
+  inset: 0 !important;
   width: 100% !important;
   height: 100% !important;
   border-radius: 100% !important;
+  object-fit: cover !important;
   transition: opacity 0.3s ease-in-out !important;
-  object-fit: cover;
 }
 
 /* the PNG should take space; the GIF sits on top */
@@ -568,3 +570,10 @@ color: #fff;
 /* hover fade */
 .profile-wrapper:hover .profile-img.animated { opacity: 1 !important; }
 .profile-wrapper:hover .profile-img.static   { opacity: 0 !important; }
+
+@media (max-width: 576px) {
+  .profile-wrapper {
+    width: 180px !important;
+    height: 180px !important;
+  }
+}
