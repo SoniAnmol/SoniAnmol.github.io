@@ -2,17 +2,17 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <link href="https://sonianmol.github.io/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://sonianmol.github.io/" rel="alternate" type="text/html" />
-  <updated>2025-10-31T13:37:00+00:00</updated>
-  <id>https://sonianmol.github.io/</id>
+  <link href="https://anmol.phd/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://anmol.phd/" rel="alternate" type="text/html" />
+  <updated>2025-11-02T15:41:29+00:00</updated>
+  <id>https://anmol.phd/</id>
 
   
     <title type="html">Anmol Soni</title>
   
 
   
-    <subtitle>PhD Candidate at Maastricht University. Social data scientist with a background in sustainable energy and policy advocacy</subtitle>
+    <subtitle>PhD Candidate at Maastricht University. Computaional climate economist with a background in sustainable energy and policy analysis</subtitle>
   
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Reflections on Climate Action in Italy</title>
-      <link href="https://sonianmol.github.io/posts/sais" rel="alternate" type="text/html" title="Reflections on Climate Action in Italy" />
+      <link href="https://anmol.phd/posts/sais" rel="alternate" type="text/html" title="Reflections on Climate Action in Italy" />
       <published>2024-04-03T00:00:00+00:00</published>
       <updated>2024-04-03T00:00:00+00:00</updated>
-      <id>https://sonianmol.github.io/posts/Reflections-from-SAIS</id>
-      <content type="html" xml:base="https://sonianmol.github.io/posts/sais">&lt;h1 id=&quot;reflections-from-the-sais-workshop-on-climate-action-in-italy&quot;&gt;Reflections from the SAIS Workshop on Climate Action in Italy&lt;/h1&gt;
+      <id>https://anmol.phd/posts/Reflections-from-SAIS</id>
+      <content type="html" xml:base="https://anmol.phd/posts/sais">&lt;h1 id=&quot;reflections-from-the-sais-workshop-on-climate-action-in-italy&quot;&gt;Reflections from the SAIS Workshop on Climate Action in Italy&lt;/h1&gt;
 
 &lt;div class=&quot;mb-4&quot; style=&quot;font-size: 1rem; color: #444;&quot;&gt;
   &lt;text-muted style=&quot;font-size:2rem&quot;&gt;Conferences and Workshops | April 2024  &lt;/text-muted&gt;
@@ -80,11 +80,11 @@
   
     <entry>
       <title type="html">Roadmap for Integration of Geo-Thermal Energy in Rotterdam</title>
-      <link href="https://sonianmol.github.io/posts/geo-thermal/" rel="alternate" type="text/html" title="Roadmap for Integration of Geo-Thermal Energy in Rotterdam" />
+      <link href="https://anmol.phd/posts/geo-thermal/" rel="alternate" type="text/html" title="Roadmap for Integration of Geo-Thermal Energy in Rotterdam" />
       <published>2022-09-27T00:00:00+00:00</published>
       <updated>2022-09-27T00:00:00+00:00</updated>
-      <id>https://sonianmol.github.io/posts/geo-thermal</id>
-      <content type="html" xml:base="https://sonianmol.github.io/posts/geo-thermal/">&lt;h1 id=&quot;roadmap-for-integration-of-geo-thermal-energy-in-rotterdam&quot;&gt;Roadmap for Integration of Geo-Thermal Energy in Rotterdam&lt;/h1&gt;
+      <id>https://anmol.phd/posts/geo-thermal</id>
+      <content type="html" xml:base="https://anmol.phd/posts/geo-thermal/">&lt;h1 id=&quot;roadmap-for-integration-of-geo-thermal-energy-in-rotterdam&quot;&gt;Roadmap for Integration of Geo-Thermal Energy in Rotterdam&lt;/h1&gt;
 
 &lt;div class=&quot;mb-4&quot; style=&quot;font-size: 1rem; color: #444;&quot;&gt;
   &lt;text-muted style=&quot;font-size:2rem&quot;&gt;Project | 2021–2022  &lt;/text-muted&gt;
