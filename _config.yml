@@ -2,17 +2,17 @@
 title: Anmol Soni
 email: anmol_soni@outlook.com
 baseurl: ""
-url: "https://sonianmol.github.io"
-description: "PhD Candidate at Maastricht University. Social data scientist with a background in sustainable energy and policy advocacy"
+url: "https://anmol.phd"
+description: "PhD Candidate at Maastricht University. Computaional climate economist with a background in sustainable energy and policy analysis"
 tags:
   [
     "Agent-based modelling",
     "System dynamics",
     "Data analysis",
     "Data visualisation",
-    "Stakeholder management",
+    "climate economics",
     "Actor strategy modelling",
-    "Strategy consultation",
+    "Computational Economics",
   ]
 keywords: "Anmol Soni, PhD candidate, Maastricht University, climate communication, climate economics, agent-based modeling, modeling and simulation, computational social science, natural language processing, Maastricht, Netherlands, India"
 
@@ -45,8 +45,8 @@ footer:
 
 # Social networks usernames
 social:
-  - title: x
-    url: http://x.com/anmol_soni
+  - title: bluesky
+    url: https://bsky.app/profile/anmolsoni.bsky.social
   - title: github
     url: http://github.com/SoniAnmol
   - title: linkedin
