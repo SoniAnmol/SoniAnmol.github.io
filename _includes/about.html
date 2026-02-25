@@ -8,11 +8,12 @@
         <hr class="my-2" style="width: 60px; border: 1px solid #bbb; margin-left: 0;">
 
         <p style="font-size: 2rem; line-height: 1.25; font-weight: 500; color: #000;">
-          
-          My research at <strong>Maastricht University</strong> focuses on the intersection of computational 
-          climate economics and behavioral responses to extreme weather events. My work applies agent-based modeling, 
-          econometrics, and natural language processing to understand how societies perceive and respond to climate 
-          risks. I aim to provide insights for data-driven policy solutions to enhance climate adaptation and 
+
+          My research at <strong>Maastricht University</strong> focuses on the intersection of computational
+          climate economics and behavioral responses to extreme weather events. My work applies agent-based modeling,
+          econometrics, and natural language processing to understand how societies perceive and respond to climate
+          risks. I aim to provide insights for data-driven policy solutions to
+          enhance climate adaptation and
           resilience.
 
         </p>
@@ -33,18 +34,17 @@
 
             <div style="display: inline-block; vertical-align: middle; margin-left: 1rem;">
               {% for network in site.social %}
-                <a href="{{ network.url }}" class="btn-social btn-outline"
-                  style="color: #000; border-color: #000; margin-right: 0.5rem;" aria-label="{{ network.title }}">
-                  
-                  {% if network.title == 'bluesky' %}
-                    <img src="{{ '/img/bluesky-logo.svg' | relative_url }}"
-                        alt="Bluesky"
-                        style="height:1em;width:1em;vertical-align:-0.125em;">
-                  {% else %}
-                    <i class="fa-brands fa-fw fab fa-{{ network.title }}"></i>
-                  {% endif %}
-                  
-                </a>
+              <a href="{{ network.url }}" class="btn-social btn-outline"
+                style="color: #000; border-color: #000; margin-right: 0.5rem;" aria-label="{{ network.title }}">
+
+                {% if network.title == 'bluesky' %}
+                <img src="{{ '/img/bluesky-logo.svg' | relative_url }}" alt="Bluesky"
+                  style="height:1em;width:1em;vertical-align:-0.125em;">
+                {% else %}
+                <i class="fa-brands fa-fw fab fa-{{ network.title }}"></i>
+                {% endif %}
+
+              </a>
               {% endfor %}
               <!-- Email Icon -->
               <a href="mailto:mail@anmol.phd" class="btn-social btn-outline"

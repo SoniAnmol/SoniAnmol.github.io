@@ -3,7 +3,7 @@ title: Anmol Soni
 email: anmol_soni@outlook.com
 baseurl: ""
 url: "https://anmol.phd"
-description: "PhD Candidate at Maastricht University. Computaional climate economist with a background in sustainable energy and policy analysis"
+description: "PhD Candidate at Maastricht University. Computational climate economist with a background in sustainable energy and policy analysis"
 tags:
   [
     "Agent-based modelling",
@@ -14,9 +14,7 @@ tags:
     "Actor strategy modelling",
     "Computational Economics",
   ]
-keywords: "Anmol Soni, PhD candidate, Maastricht University, climate communication, climate economics, agent-based modeling, modeling and simulation, computational social science, natural language processing, Maastricht, Netherlands, India"
-
-
+keywords: "Anmol Soni, PhD candidate, Maastricht University, computational economics, climate economics, agent-based modeling, modeling and simulation, computational social science, natural language processing, Maastricht, Netherlands, India"
 
 meta_author: Anmol Soni
 
@@ -51,10 +49,8 @@ social:
     url: http://github.com/SoniAnmol
   - title: linkedin
     url: http://linkedin.com/in/a-soni
-  - title: researchgate
-    url: https://www.researchgate.net/profile/Anmol-Soni-9
 
-credits: <a href="mailto:anmol_soni@outlook.com" style="color:#FFC300;">anmol_soni@outlook.com </a>
+credits: <a href="mailto:mail@anmol.phd" style="color:#FFC300;">anmol_soni@outlook.com </a>
 
 # Postal address
 address:
