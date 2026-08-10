@@ -681,3 +681,249 @@ a.text-list:hover {
     background-color: #365c4a;
     border-radius: 50%;
 }
+
+/* =========================================
+   Research Page
+   ========================================= */
+
+.research-page {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+
+/* Header */
+
+.research-header {
+    max-width: 760px;
+}
+
+.research-header h1 {
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+}
+
+.research-header p {
+    color: #5f6361;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 0;
+}
+
+
+/* Section headings */
+
+.research-section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #555b58;
+
+    padding-bottom: 0.65rem;
+    margin-bottom: 1.5rem;
+
+    border-bottom: 1px solid #e3e5e4;
+}
+
+
+/* Research card */
+
+.research-card {
+    position: relative;
+
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+
+    background: #ffffff;
+    border: 1px solid #e2e5e3;
+    border-radius: 14px;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.research-card:hover {
+    transform: translateY(-2px);
+    border-color: #c9cecb;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.055);
+}
+
+
+/* Slight emphasis for your main paper */
+
+.research-card-featured {
+    background: #f7f9f8;
+    border-color: #d2d9d5;
+}
+
+
+/* Earlier work can be slightly quieter */
+
+.research-card-secondary {
+    background: #fcfcfc;
+}
+
+
+/* Metadata */
+
+.research-meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+
+    margin-bottom: 0.9rem;
+
+    color: #727774;
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.research-meta>span:not(:last-child)::after {
+    content: "·";
+    margin-left: 0.5rem;
+    color: #b0b4b2;
+}
+
+
+/* Job market paper indicator */
+
+.research-status {
+    padding: 0.25rem 0.55rem;
+
+    color: #294438;
+    background: #e9efec;
+
+    border-radius: 6px;
+
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+
+/* Title */
+
+.research-card h3 {
+    margin-bottom: 0.9rem;
+
+    font-size: 2rem;
+    font-weight: 650;
+    line-height: 1.35;
+}
+
+.research-card h3 a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.research-card h3 a:hover {
+    color: #000000;
+}
+
+
+/* Description */
+
+.research-description {
+    max-width: 850px;
+
+    margin-bottom: 1.2rem;
+
+    color: #4f5552;
+    line-height: 1.7;
+}
+
+
+/* Tags */
+
+.research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+
+    margin-bottom: 1.35rem;
+}
+
+.research-tags span {
+    padding: 0.32rem 0.65rem;
+
+    background: #f2f3f2;
+    border: 1px solid #e1e3e2;
+    border-radius: 6px;
+
+    color: #555b58;
+    font-size: 1.25rem;
+}
+
+
+/* Links */
+
+.research-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.research-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+
+    padding: 0.55rem 0.85rem;
+
+    background: #4e4e4e;
+    border: 1px solid #4e4e4e;
+    border-radius: 7px;
+
+    color: #ffffff;
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-decoration: none;
+
+    transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.research-button:hover {
+    background: #343434;
+    border-color: #353635;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.research-button-secondary {
+    background: transparent;
+    color: #333836;
+    border-color: #cfd3d1;
+}
+
+.research-button-secondary:hover {
+    background: #f2f3f2;
+    border-color: #b9bfbc;
+    color: #252927;
+}
+
+
+/* Mobile */
+
+@media (max-width: 767px) {
+
+    .research-card {
+        padding: 1.4rem;
+        border-radius: 11px;
+    }
+
+    .research-card h3 {
+        font-size: 1.15rem;
+    }
+
+    .research-header p {
+        font-size: 1rem;
+    }
+
+}
