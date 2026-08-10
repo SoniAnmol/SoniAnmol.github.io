@@ -101,13 +101,13 @@
     <main class="container py-5" style="flex: 1;">
       <style>
   .conferences-page .section-title {
-    font-size: 3.23rem;
+    font-size: var(--fs-xl);
     line-height: 1.25;
     margin-bottom: 0.4rem;
   }
 
   .conferences-page .group-title {
-    font-size: 2rem;
+    font-size: var(--fs-lg);
     font-weight: 700;
     margin: 2.25rem 0 1.25rem;
     letter-spacing: 0.01em;
@@ -132,7 +132,7 @@
   }
 
   .conferences-page .item-title {
-    font-size: 2rem;
+    font-size: var(--fs-lg);
     font-weight: 700;
     line-height: 1.4;
     margin: 0;
@@ -145,7 +145,7 @@
 
   .conferences-page .item-meta {
     margin-top: 0.35rem;
-    font-size: 1.86rem;
+    font-size: var(--fs-base);
     color: #666;
     line-height: 1.6;
   }
@@ -156,31 +156,31 @@
 
   .conferences-page .item-desc {
     margin: 0.55rem 0 0;
-    font-size: 1.5rem;
+    font-size: var(--fs-md);
     line-height: 1.72;
     color: #444;
   }
 
   @media (max-width: 767px) {
     .conferences-page .section-title {
-      font-size: 2.85rem;
+      font-size: var(--fs-xl);
     }
 
     .conferences-page .group-title {
-      font-size: 2.1rem;
+      font-size: var(--fs-lg);
       margin-top: 1.75rem;
     }
 
     .conferences-page .item-title {
-      font-size: 1.98rem;
+      font-size: var(--fs-lg);
     }
 
     .conferences-page .item-meta {
-      font-size: 1.77rem;
+      font-size: var(--fs-base);
     }
 
     .conferences-page .item-desc {
-      font-size: 1.8rem;
+      font-size: var(--fs-md);
     }
   }
 </style>
@@ -198,6 +198,34 @@
       <div class="col-lg-12">
         <h2 class="group-title">Workshops &amp; Conferences</h2>
         <ul class="conference-list mb-5">
+
+
+          <li class="conference-item">
+            <p class="item-title"><em>Conference</em> Computing in Economics and Finance 2026</p>
+            <p class="item-meta">
+              Venice (IT) — Jun 2026
+            </p>
+            <p class="item-desc">
+              Presented early-stage simulation results showing path dependency arising from regional investment dynamics
+              and
+              heterogeneous local climate shocks in the DSK model.
+            </p>
+          </li>
+          <li class="conference-item">
+            <p class="item-title"><em>Conference</em> WEHIA 2026</p>
+            <p class="item-meta">
+              Ancona (IT) — Jun 2026
+            </p>
+            <p class="item-desc">
+              Presented early-stage simulation results showing path dependency arising from regional investment dynamics
+              and
+              heterogeneous local climate shocks in the DSK model.
+              <a href="https://drive.google.com/file/d/1UISZwlxtmfamUOlc4fbzbVVJboE8ZnfV/view" target="_blank"
+                rel="noopener noreferrer">Presentation Slides</a>
+            </p>
+          </li>
+
+
           <li class="conference-item">
             <p class="item-title"><em>Workshop</em> Macroeconomic Implications of Climate-Related Risks</p>
             <p class="item-meta">
@@ -301,9 +329,8 @@
                   <a href="https://bsky.app/profile/anmol.phd" class="btn-social btn-outline"
                     aria-label="Bluesky">
                     
-                      <img src="/img/bluesky-logo.svg"
-                          alt="Bluesky"
-                          style="height:1em;width:1em;vertical-align:-0.125em;">
+                    <img src="/img/bluesky-logo.svg" alt="Bluesky"
+                      style="height:1em;width:1em;vertical-align:-0.125em;">
                     
                   </a>
                 </li>
@@ -312,7 +339,7 @@
                   <a href="http://github.com/SoniAnmol" class="btn-social btn-outline"
                     aria-label="Github">
                     
-                      <i class="fa-brands fa-fw fa-github"></i>
+                    <i class="fa-brands fa-fw fa-github"></i>
                     
                   </a>
                 </li>
@@ -321,7 +348,7 @@
                   <a href="http://linkedin.com/in/a-soni" class="btn-social btn-outline"
                     aria-label="Linkedin">
                     
-                      <i class="fa-brands fa-fw fa-linkedin"></i>
+                    <i class="fa-brands fa-fw fa-linkedin"></i>
                     
                   </a>
                 </li>
@@ -337,7 +364,8 @@
 
                 <!-- Schedule Call -->
                 <li class="list-inline-item" style="margin-right: 0.5rem;">
-                  <a href="https://cal.com/anmol-soni/30min" class="btn-social btn-outline" aria-label="Schedule a call with Anmol">
+                  <a href="https://cal.com/anmol-soni/30min" class="btn-social btn-outline"
+                    aria-label="Schedule a call with Anmol">
                     <i class="fa-solid fa-calendar-days"></i>
                   </a>
                 </li>
@@ -346,10 +374,10 @@
 
             <!-- Right: Copyright -->
             <div style="text-align: right;">
-              <p class="mb-0" style="font-size: 14px; margin: 0;">
+              <p class="mb-0" style="margin: 0;">
                 &copy; AnmolSoni 2026
                 <br>
-                <a href="/sitemap.xml" class="text-muted" style="font-size: 0.9rem;">Sitemap</a>
+                <a href="/sitemap.xml" class="text-muted">Sitemap</a>
               </p>
 
 
@@ -370,7 +398,6 @@
     <i class="fa fa-chevron-up"></i>
   </a>
 </div>
-
     <!-- jQuery Version 1.11.0 -->
 <script src=" /js/jquery-1.11.0.js"></script>
 
