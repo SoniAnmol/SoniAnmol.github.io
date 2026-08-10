@@ -14,11 +14,10 @@
                   <a href="{{ network.url }}" class="btn-social btn-outline"
                     aria-label="{% if network.title == 'bluesky' %}Bluesky{% else %}{{ network.title | capitalize }}{% endif %}">
                     {% if network.title == 'bluesky' %}
-                      <img src="{{ '/img/bluesky-logo.svg' | relative_url }}"
-                          alt="Bluesky"
-                          style="height:1em;width:1em;vertical-align:-0.125em;">
+                    <img src="{{ '/img/bluesky-logo.svg' | relative_url }}" alt="Bluesky"
+                      style="height:1em;width:1em;vertical-align:-0.125em;">
                     {% else %}
-                      <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
+                    <i class="fa-brands fa-fw fa-{{ network.title }}"></i>
                     {% endif %}
                   </a>
                 </li>
@@ -34,7 +33,8 @@
 
                 <!-- Schedule Call -->
                 <li class="list-inline-item" style="margin-right: 0.5rem;">
-                  <a href="https://cal.com/anmol-soni/30min" class="btn-social btn-outline" aria-label="Schedule a call with Anmol">
+                  <a href="https://cal.com/anmol-soni/30min" class="btn-social btn-outline"
+                    aria-label="Schedule a call with Anmol">
                     <i class="fa-solid fa-calendar-days"></i>
                   </a>
                 </li>
@@ -43,10 +43,10 @@
 
             <!-- Right: Copyright -->
             <div style="text-align: right;">
-              <p class="mb-0" style="font-size: 14px; margin: 0;">
+              <p class="mb-0" style="margin: 0;">
                 &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
                 <br>
-                <a href="/sitemap.xml" class="text-muted" style="font-size: 0.9rem;">Sitemap</a>
+                <a href="/sitemap.xml" class="text-muted">Sitemap</a>
               </p>
 
 
