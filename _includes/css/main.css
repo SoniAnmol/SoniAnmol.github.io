@@ -117,7 +117,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: var(--fs-lg);
+        font-size: var(--fs-xl);
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
